@@ -1,0 +1,14 @@
+﻿  Creating makefile for CoopGameEditor (ini files are newer than makefile)
+  Parsing headers for CoopGameEditor
+    Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\CoopGame\CoopGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CoopGameEditor in 4,6988405 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] SExpBarrel.cpp
+    [2/4] UE4Editor-CoopGame.lib
+       Creating library D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.lib and object D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.exp
+    [3/4] UE4Editor-CoopGame.dll
+       Creating library D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.exp
+    [4/4] CoopGameEditor.target
+  Total time in Parallel executor: 2,18 seconds
+  Total execution time: 8,38 seconds

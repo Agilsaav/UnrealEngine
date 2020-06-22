@@ -1,0 +1,852 @@
+﻿Log file open, 05/06/20 15:14:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263747
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Blackmaxic -epicuserid=6612d62754d34bd8b7fbed12a18e7a5a -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.06-13.14.48:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.06-13.14.48:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:887][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-13.14.48:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-13.14.48:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-13.14.48:891][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-13.14.48:891][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.06-13.14.48:928][  0]LogHAL: Display: Platform has ~ 16 GB [17138606080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.06-13.14.48:928][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.06-13.14.48:928][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-13.14.48:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.06-13.14.48:929][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Config/Windows/Engine.ini]
+[2020.05.06-13.14.48:929][  0]LogInit: Computer: DESKTOP-MQ854L0
+[2020.05.06-13.14.48:929][  0]LogInit: User: alber
+[2020.05.06-13.14.48:929][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.06-13.14.48:929][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.06-13.14.48:929][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.06-13.14.48:929][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.06-13.14.48:929][  0]LogMemory: Process Physical Memory: 99.96 MB used, 99.96 MB peak
+[2020.05.06-13.14.48:929][  0]LogMemory: Process Virtual Memory: 89.05 MB used, 89.05 MB peak
+[2020.05.06-13.14.48:929][  0]LogMemory: Physical Memory: 8855.26 MB used,  7489.39 MB free, 16344.65 MB total
+[2020.05.06-13.14.48:929][  0]LogMemory: Virtual Memory: 4643.79 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.05.06-13.14.48:948][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.06-13.14.48:948][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.05.06-13.14.48:948][  0]LogInit: Using OS detected locale (es-ES).
+[2020.05.06-13.14.49:088][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.06-13.14.49:109][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.06-13.14.49:109][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.06-13.14.49:240][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.06-13.14.49:240][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.06-13.14.49:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.05.06-13.14.49:297][  0]LogD3D11RHI:       4043/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.06-13.14.49:300][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.06-13.14.49:300][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.06-13.14.49:300][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.06-13.14.49:306][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.06-13.14.49:306][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.06-13.14.49:306][  0]LogWindows: EnumDisplayDevices:
+[2020.05.06-13.14.49:306][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.05.06-13.14.49:307][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.05.06-13.14.49:307][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.05.06-13.14.49:307][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.05.06-13.14.49:307][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.06-13.14.49:307][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.05.06-13.14.49:307][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.05.06-13.14.49:307][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.05.06-13.14.49:307][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.05.06-13.14.49:342][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.06-13.14.49:349][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-13.14.49:350][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-13.14.49:350][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.06-13.14.49:357][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.06-13.14.49:614][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.06-13.14.49:625][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.06-13.14.49:636][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.06-13.14.49:647][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.06-13.14.49:658][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.06-13.14.49:669][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.06-13.14.49:681][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.06-13.14.49:692][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.06-13.14.49:697][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.06-13.14.49:767][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.06-13.14.49:769][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.06-13.14.49:817][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.06-13.14.49:817][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.06-13.14.49:837][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.06-13.14.49:837][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.06-13.14.49:846][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.06-13.14.49:857][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.06-13.14.49:868][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.06-13.14.49:879][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.06-13.14.49:928][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.06-13.14.49:928][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.06-13.14.49:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.06-13.14.49:936][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.06-13.14.49:978][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Intermediate/Shaders/WorkingDirectory/20764/).
+[2020.05.06-13.14.49:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alber/AppData/Local/Temp/UnrealShaderWorkingDir/2BFC9E8E4B3B62204AD61AB660D89584/'.
+[2020.05.06-13.14.49:980][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.06-13.14.49:980][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.06-13.14.49:980][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.06-13.14.50:409][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Usuario/Documentos/UnrealEngineProj/StealthGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Usuario/Documentos/UnrealEngineProj/StealthGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-13.14.50:449][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.06-13.14.50:459][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.06-13.14.50:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-13.14.50:459][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.06-13.14.50:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.06-13.14.50:471][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.06-13.14.50:471][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.06-13.14.50:488][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.06-13.14.50:489][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.06-13.14.50:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.06-13.14.50:557][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2020.05.06-13.14.50:826][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-13.14.50:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.06-13.14.50:960][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.06-13.14.50:960][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.06-13.14.50:960][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.06-13.14.50:960][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.06-13.14.50:969][  0]LogNetVersion: FPSGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2223537346)
+[2020.05.06-13.14.51:337][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050448 seconds
+[2020.05.06-13.14.51:343][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.06-13.14.51:343][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.06-13.14.51:343][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.06-13.14.52:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.06-13.14.52:041][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.06-13.14.52:882][  0]SourceControl: Source control is disabled
+[2020.05.06-13.14.52:882][  0]SourceControl: Source control is disabled
+[2020.05.06-13.14.52:884][  0]SourceControl: Source control is disabled
+[2020.05.06-13.14.52:885][  0]SourceControl: Source control is disabled
+[2020.05.06-13.14.52:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.06-13.14.53:034][  0]LogOcInput: OculusInput pre-init called
+[2020.05.06-13.14.53:585][  0]LogEngine: Initializing Engine...
+[2020.05.06-13.14.53:586][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.06-13.14.53:587][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.06-13.14.53:745][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.06-13.14.53:756][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.06-13.14.53:782][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-13.14.53:799][  0]LogInit: FAudioDevice initialized.
+[2020.05.06-13.14.53:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.06-13.14.53:840][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.06-13.14.53:850][  0]LogInit: Texture streaming: Enabled
+[2020.05.06-13.14.53:867][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.06-13.14.53:891][  0]LogInit: Transaction tracking system initialized
+[2020.05.06-13.14.53:915][  0]BlueprintLog: New page: Editor Load
+[2020.05.06-13.14.53:984][  0]LocalizationService: Localization service is disabled
+[2020.05.06-13.14.54:255][  0]LogFileCache: Scanning file cache for directory 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/' took 0.01s
+[2020.05.06-13.14.54:255][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.06-13.14.54:255][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.06-13.14.54:395][  0]SourceControl: Source control is disabled
+[2020.05.06-13.14.54:395][  0]Cmd: MAP LOAD FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-13.14.54:395][  0]LightingResults: New page: Lighting Build
+[2020.05.06-13.14.54:397][  0]MapCheck: New page: Map Check
+[2020.05.06-13.14.54:397][  0]LightingResults: New page: Lighting Build
+[2020.05.06-13.14.54:418][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.06-13.14.56:002][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.05.06-13.14.56:014][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-13.14.56:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.06-13.14.56:034][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-13.14.56:034][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,076ms to complete.
+[2020.05.06-13.14.56:034][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.640
+[2020.05.06-13.14.56:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.14.56:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.14.56:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.14.56:180][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.14.56:193][  0]LogCollectionManager: Loaded 0 collections in 0.001739 seconds
+[2020.05.06-13.14.56:218][  0]LogFileCache: Scanning file cache for directory 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/Collections/' took 0.01s
+[2020.05.06-13.14.56:218][  0]LogFileCache: Scanning file cache for directory 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Developers/alber/Collections/' took 0.00s
+[2020.05.06-13.14.56:218][  0]LogFileCache: Scanning file cache for directory 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Collections/' took 0.00s
+[2020.05.06-13.14.56:218][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.06-13.14.56:226][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2740 classes and 663 folders.
+[2020.05.06-13.14.56:235][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-13.14.56:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-13.14.56:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.06-13.14.56:525][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.06-13.14.56:632][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.06-13.14.56:634][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.06-13.14.56:642][  0]LogSlate: Took 0.004278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.06-13.14.56:747][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-13.14.56:863][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-13.14.56:863][  0]LogLoad: (Engine Initialization) Total time: 9.95 seconds
+[2020.05.06-13.14.56:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.06-13.14.56:896][  0]LogAssetRegistry: Asset discovery search completed in 6.3601 seconds
+[2020.05.06-13.14.56:898][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.06-13.14.56:898][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2020.05.06-13.14.56:900][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.06-13.14.56:921][  0]LogSlate: Took 0.004552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-13.15.08:012][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-13.15.21:555][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.19.36:694][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-13.19.38:308][723]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-13.19.38:310][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-13.19.38:343][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-13.19.38:360][723]LogSlate: Took 0.007184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-13.20.10:835][546]Candidate modules for hot reload:
+[2020.05.06-13.20.10:835][546]  FPSGame
+[2020.05.06-13.20.10:835][546]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,4955 Win64 Development -TargetType=Editor -Project="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject" "D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject"  -IgnoreJunk]
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: New page: Compilation - 6/5/2020 17:22:47
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Creating makefile for FPSGameEditor (ini files are newer than makefile)
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Reflection code generated for FPSGameEditor in 17,8752302 seconds
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Building 7 actions with 8 processes...
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [1/7] FPSGame.init.gen.cpp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [2/7] FPSAIGuard.cpp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [3/7] FPSAIGuard.gen.cpp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [4/7] FPSLaunchPad.cpp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [5/7] UE4Editor-FPSGame-4955.lib
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4955.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4955.exp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [6/7] UE4Editor-FPSGame-4955.dll
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4955.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4955.suppressed.exp
+[2020.05.06-13.22.47:392][546]CompilerResultsLog:   [7/7] FPSGameEditor.target
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Total time in Parallel executor: 135,38 seconds
+[2020.05.06-13.22.47:392][546]CompilerResultsLog: Total execution time: 156,47 seconds
+[2020.05.06-13.22.47:392][546]LogMainFrame: MainFrame: Module compiling took 156.561 seconds
+[2020.05.06-13.22.47:410][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.06-13.22.47:426][546]LogClass: Could not find existing class FPSAIGuard in package /Script/FPSGame for HotReload, assuming new class
+[2020.05.06-13.22.47:441][546]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0003 seconds. Added 9 classes and 4 folders.
+[2020.05.06-13.22.47:443][546]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.05.06-13.22.47:548][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.05.06-13.22.47:558][546]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2742 classes and 665 folders.
+[2020.05.06-13.22.47:558][546]Display: HotReload took 156.8s.
+[2020.05.06-13.22.47:559][546]Warning: HotReload operation took 156.8s.
+[2020.05.06-13.22.47:801][546]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.06-13.22.47:809][546]LogHotReload: New module detected: UE4Editor-FPSGame-4955.dll
+[2020.05.06-13.22.47:823][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.06-13.22.47:848][547]LogHotReload: Starting Hot-Reload from IDE
+[2020.05.06-13.22.47:887][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.05.06-13.22.47:890][547]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0003 seconds. Added 9 classes and 4 folders.
+[2020.05.06-13.22.47:892][547]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.05.06-13.22.47:909][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.05.06-13.22.47:920][547]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2742 classes and 665 folders.
+[2020.05.06-13.22.47:922][547]Display: HotReload took  0.1s.
+[2020.05.06-13.22.47:928][547]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.06-13.22.56:940][574]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (9.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.06-13.25.14:157][108]Candidate modules for hot reload:
+[2020.05.06-13.25.14:157][108]  FPSGame
+[2020.05.06-13.25.14:158][108]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,626 Win64 Development -TargetType=Editor -Project="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject" "D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject"  -IgnoreJunk]
+[2020.05.06-13.25.14:161][108]Warning: Starting HotReload took  0.0s.
+[2020.05.06-13.25.23:019][162]CompilerResultsLog: New page: Compilation - 6/5/2020 17:25:23
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Reflection code generated for FPSGameEditor in 5,5087414 seconds
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   [1/5] FPSAIGuard.cpp
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   [2/5] FPSAIGuard.gen.cpp
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   [3/5] UE4Editor-FPSGame-0626.lib
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0626.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0626.exp
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   [4/5] UE4Editor-FPSGame-0626.dll
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0626.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0626.suppressed.exp
+[2020.05.06-13.25.23:020][162]CompilerResultsLog:   [5/5] FPSGameEditor.target
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Total time in Parallel executor: 2,33 seconds
+[2020.05.06-13.25.23:020][162]CompilerResultsLog: Total execution time: 8,78 seconds
+[2020.05.06-13.25.23:020][162]LogMainFrame: MainFrame: Module compiling took 8.864 seconds
+[2020.05.06-13.25.23:039][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.06-13.25.23:053][162]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2742 classes and 665 folders.
+[2020.05.06-13.25.23:053][162]Display: HotReload took  8.9s.
+[2020.05.06-13.25.27:159][646]Cmd: DELETE
+[2020.05.06-13.25.27:159][646]Cmd: ACTOR DELETE
+[2020.05.06-13.25.27:168][646]LogEditorActor: Deleted Actor: BP_LaunchPad_C
+[2020.05.06-13.25.27:186][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.06-13.25.27:187][646]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.05.06-13.28.12:560][321]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.06-13.28.17:682][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Guard.BP_Guard
+[2020.05.06-13.28.18:013][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.06-13.28.18:784][775]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.05.06-13.28.22:465][817]LogSlate: Took 0.004955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.06-13.28.33:174][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_M (AutoDXT, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_Equipment_M (AutoDXT, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_Blue_D (AutoDXT, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_N (BC5, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_Equipment_Blue_D (AutoDXT, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogTexture: Display: Building textures: T_Dwarf_Grunt_Equipment_Blue_N (BC5, 2048X2048)
+[2020.05.06-13.28.33:175][ 98]LogMaterial: Display: Missing cached shader map for material M_Dwarf_Grunt, compiling. 
+[2020.05.06-13.28.33:266][ 98]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.06-13.28.33:266][ 98]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.06-13.28.33:266][ 98]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.06-13.28.33:266][ 98]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.06-13.28.33:266][ 98]LogSkeletalMesh: Building Skeletal Mesh DwarfGrunt_R_new...
+[2020.05.06-13.28.33:269][ 98]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Characters/DwarfGrunt/SkelMesh/DwarfGrunt_R_new.DwarfGrunt_R_new
+[2020.05.06-13.28.35:821][220]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.06-13.28.36:065][231]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.06-13.28.59:923][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.29.27:384][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.30.04:070][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.30.12:720][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.30.12:854][389]BlueprintLog: New page: Compile BP_Guard
+[2020.05.06-13.30.13:002][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.05.06-13.30.13:034][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Guard" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset" SILENT=true
+[2020.05.06-13.30.13:054][389]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/BP_Guard6208025E45646E4B8AD2FBBE09B5A548.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset'
+[2020.05.06-13.30.22:151][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.30.24:560][678]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.06-13.30.37:465][874]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/DwarfGrunt/Anims/Idle_1_new.Idle_1_new
+[2020.05.06-13.30.37:466][874]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/DwarfGrunt/Anims/Idle_1_new.Idle_1_new) using current/default (AnimCompress_RemoveLinearKeys_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.06-13.30.49:550][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.30.49:633][548]BlueprintLog: New page: Compile BP_Guard
+[2020.05.06-13.30.49:776][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.06-13.30.49:799][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Guard" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset" SILENT=true
+[2020.05.06-13.30.49:852][548]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/BP_GuardAC8BBC6D427038774F0125B511BC9D61.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset'
+[2020.05.06-13.30.59:411][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Guard" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset" SILENT=true
+[2020.05.06-13.30.59:427][692]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/BP_GuardEC4654FF44073EF062FB00B56CC6E0A2.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset'
+[2020.05.06-13.31.05:496][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.05.06-13.31.05:676][ 63]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/FirstPersonExampleMap3313D56940C3748549149CAD5BBE19AC.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap.umap'
+[2020.05.06-13.31.05:703][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.05.06-13.31.05:817][ 63]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/FirstPersonExampleMap_BuiltData39636EFA4DE0AE6D068E7ABDD43E7E0D.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.05.06-13.35.43:984][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Guard" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset" SILENT=true
+[2020.05.06-13.35.44:000][107]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/BP_Guard176E0E124316116479E1C0B0B900A99E.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset'
+[2020.05.06-13.35.44:902][214]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.35.44:904][214]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.35.46:123][352]Candidate modules for hot reload:
+[2020.05.06-13.35.46:123][352]  FPSGame
+[2020.05.06-13.35.46:124][352]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,1225 Win64 Development -TargetType=Editor -Project="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject" "D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject"  -IgnoreJunk]
+[2020.05.06-13.35.46:126][352]Warning: Starting HotReload took  0.0s.
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: New page: Compilation - 6/5/2020 17:35:55
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Creating makefile for FPSGameEditor (ini files are newer than makefile)
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Reflection code generated for FPSGameEditor in 5,5937091 seconds
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [1/6] FPSGame.init.gen.cpp
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [2/6] FPSAIGuard.cpp
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [3/6] FPSAIGuard.gen.cpp
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [4/6] UE4Editor-FPSGame-1225.lib
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-1225.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-1225.exp
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [5/6] UE4Editor-FPSGame-1225.dll
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-1225.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-1225.suppressed.exp
+[2020.05.06-13.35.55:878][159]CompilerResultsLog:   [6/6] FPSGameEditor.target
+[2020.05.06-13.35.55:878][159]CompilerResultsLog: Total time in Parallel executor: 1,93 seconds
+[2020.05.06-13.35.55:879][159]CompilerResultsLog: Total execution time: 9,43 seconds
+[2020.05.06-13.35.55:879][159]LogMainFrame: MainFrame: Module compiling took 9.757 seconds
+[2020.05.06-13.35.55:905][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.06-13.35.55:905][159]LogBlueprintActionDatabase: Requesting refresh due to module change: FPSGame (unloaded)
+[2020.05.06-13.35.55:920][159]LogClass: Could not find existing class FPSAIGuard in package /Script/FPSGame for HotReload, assuming new class
+[2020.05.06-13.35.55:942][159]LogHotReload: Re-instancing FPSAIGuard after hot-reload.
+[2020.05.06-13.35.56:166][159]LogBlueprintActionDatabase: Requesting refresh due to module change: FPSGame (loaded)
+[2020.05.06-13.35.56:167][159]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0003 seconds. Added 9 classes and 4 folders.
+[2020.05.06-13.35.56:170][159]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.05.06-13.35.56:228][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.06-13.35.56:228][159]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.05.06-13.35.56:241][159]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2742 classes and 665 folders.
+[2020.05.06-13.35.56:241][159]Display: HotReload took 10.1s.
+[2020.05.06-13.37.30:235][822]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Guard.BP_Guard
+[2020.05.06-13.37.32:021][994]LogSlate: Window 'Class Defaults' being destroyed
+[2020.05.06-13.37.32:023][994]LogSlate: Window 'Class Defaults' being destroyed
+[2020.05.06-13.37.32:023][994]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.37.32:085][994]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Guard.BP_Guard
+[2020.05.06-13.37.38:468][726]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.37.38:471][726]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.37.54:878][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.37.54:969][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.06-13.37.54:987][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.05.06-13.37.54:987][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-13.37.54:987][661]PIE: New page: PIE session: FirstPersonExampleMap (6/5/2020 17:37:54)
+[2020.05.06-13.37.54:999][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.05.06-13.37.55:012][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012859s)
+[2020.05.06-13.37.55:013][661]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.05.06-13.37.55:013][661]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2020.05.06-13.37.55:013][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013863s)
+[2020.05.06-13.37.55:073][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.05.06-13.37.55:091][661]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-13.37.55:101][661]LogInit: FAudioDevice initialized.
+[2020.05.06-13.37.55:138][661]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.06-13.37.55:140][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.05.06-15.37.55
+[2020.05.06-13.37.55:142][661]LogWorld: Bringing up level for play took: 0.002878
+[2020.05.06-13.37.55:172][661]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.06-13.37.55:176][661]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.06-13.37.55:176][661]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.06-13.37.55:179][661]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap -0,627
+[2020.05.06-13.37.55:179][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.05.06-13.38.02:153][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.05.06-13.38.02:153][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.38.02:183][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-13.38.02:184][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.05.06-13.38.02:215][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-13.38.02:265][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.05.06-13.38.02:280][463]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.06-13.38.08:248][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Guard.BP_Guard
+[2020.05.06-13.38.25:126][892]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.38.25:129][892]LogSlate: Window 'BP_Guard' being destroyed
+[2020.05.06-13.38.44:996][273]LogEditorViewport: Clicking on Actor (LMB): BP_Guard_C (BP_Guard)
+[2020.05.06-13.38.49:825][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.38.49:958][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.06-13.38.50:130][830]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/FirstPersonExampleMapC38E86B04E9D594A9C4E288581578907.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap.umap'
+[2020.05.06-13.38.50:153][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.05.06-13.38.50:247][830]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/FirstPersonExampleMap_BuiltDataBFA948CE40A3C6DC34D815B25B260B77.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.05.06-13.38.51:373][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Guard.BP_Guard
+[2020.05.06-13.39.37:890][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.39.51:910][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.40.23:454][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.41.18:040][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-13.41.18:378][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Guard" FILE="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset" SILENT=true
+[2020.05.06-13.41.18:408][291]LogSavePackage: Moving 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Saved/BP_GuardDC2BE2894004B1B499FB74A5D24D6115.tmp' to 'D:/Usuario/Documentos/UnrealEngineProj/StealthGame/Content/Blueprints/BP_Guard.uasset'
+[2020.05.06-13.41.19:088][358]BlueprintLog: New page: Compile BP_Guard
+[2020.05.06-13.41.19:274][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.06-13.47.01:777][842]Candidate modules for hot reload:
+[2020.05.06-13.47.01:777][842]  FPSGame
+[2020.05.06-13.47.01:777][842]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,5204 Win64 Development -TargetType=Editor -Project="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject" "D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject"  -IgnoreJunk]
+[2020.05.06-13.47.01:780][842]Warning: Starting HotReload took  0.0s.
+[2020.05.06-13.47.10:472][865]CompilerResultsLog: New page: Compilation - 6/5/2020 17:47:10
+[2020.05.06-13.47.10:472][865]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.05.06-13.47.10:472][865]CompilerResultsLog:   Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-13.47.10:472][865]CompilerResultsLog: Reflection code generated for FPSGameEditor in 5,4384665 seconds
+[2020.05.06-13.47.10:472][865]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-13.47.10:472][865]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.05.06-13.47.10:472][865]CompilerResultsLog:   [1/5] FPSAIGuard.gen.cpp
+[2020.05.06-13.47.10:472][865]CompilerResultsLog:   [2/5] FPSAIGuard.cpp
+[2020.05.06-13.47.10:472][865]CompilerResultsLog:    D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGame\Private\FPSAIGuard.cpp(28) : error C3867: 'AActor::GetActorLocation': non-standard syntax; use '&' to create a pointer to member
+[2020.05.06-13.47.10:472][865]LogMainFrame: MainFrame: Module compiling took 8.697 seconds
+[2020.05.06-13.47.10:473][865]Warning: HotReload failed, recompile failed
+[2020.05.06-13.47.24:141][906]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-13.47.24:145][906]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-13.47.25:232][ 34]Candidate modules for hot reload:
+[2020.05.06-13.47.25:232][ 34]  FPSGame
+[2020.05.06-13.47.25:232][ 34]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,2655 Win64 Development -TargetType=Editor -Project="D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject" "D:/Usuario/Documentos/UnrealEngineProj/StealthGame/FPSGame.uproject"  -IgnoreJunk]
+[2020.05.06-13.47.25:235][ 34]Warning: Starting HotReload took  0.0s.
+[2020.05.06-13.47.35:710][256]CompilerResultsLog: New page: Compilation - 6/5/2020 17:47:35
+[2020.05.06-13.47.35:710][256]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.05.06-13.47.35:710][256]CompilerResultsLog:   Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.06-13.47.35:710][256]CompilerResultsLog: Reflection code generated for FPSGameEditor in 6,1925961 seconds
+[2020.05.06-13.47.35:710][256]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.06-13.47.35:711][256]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:   [1/4] FPSAIGuard.cpp
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:   [2/4] UE4Editor-FPSGame-2655.lib
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2655.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2655.exp
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:   [3/4] UE4Editor-FPSGame-2655.dll
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:      Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2655.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2655.suppressed.exp
+[2020.05.06-13.47.35:711][256]CompilerResultsLog:   [4/4] FPSGameEditor.target
+[2020.05.06-13.47.35:711][256]CompilerResultsLog: Total time in Parallel executor: 3,09 seconds
+[2020.05.06-13.47.35:711][256]CompilerResultsLog: Total execution time: 10,38 seconds
+[2020.05.06-13.47.35:711][256]LogMainFrame: MainFrame: Module compiling took 10.481 seconds
+[2020.05.06-13.47.35:736][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.06-13.47.35:737][256]LogBlueprintActionDatabase: Requesting refresh due to module change: FPSGame (unloaded)
+[2020.05.06-13.47.35:774][256]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.06-13.47.36:582][256]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.809 s
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: 
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateSignatureImpl.inl] [Line: 1098]
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: Unable to bind delegate to 'OnPawnSeen' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: Stack: 
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff99bb0f331 UE4Editor-FPSGame-2655.dll!DispatchCheckVerify<bool,<lambda_eb1298091e9e0ac0e612ade40610e88d> >() [c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff99bb038c5 UE4Editor-FPSGame-2655.dll!AFPSAIGuard::AFPSAIGuard() [d:\usuario\documentos\unrealengineproj\stealthgame\source\fpsgame\private\fpsaiguard.cpp:13]
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff947944561 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff947935e69 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff94793cebd UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff947946c70 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff947946f04 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff94793fcf6 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff95aefe23b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-13.47.36:582][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b1c00d7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b1aedf6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95af8a727 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b554a2b UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b725cb5 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b725053 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff94793df69 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff94793be47 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff94793c6bf UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff94794c5a5 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff95b4f08ba UE4Editor-Core.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff68d6592d2 UE4Editor.exe!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff68d66554c UE4Editor.exe!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff68d6655ca UE4Editor.exe!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff68d67316c UE4Editor.exe!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff68d675b8e UE4Editor.exe!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff9ca527bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: [Callstack] 0x00007ff9cb2cce51 ntdll.dll!UnknownFunction []
+[2020.05.06-13.47.36:583][256]LogOutputDevice: Error: 
+[2020.05.06-13.47.36:591][256]LogStats:                SubmitErrorReport -  0.000 s

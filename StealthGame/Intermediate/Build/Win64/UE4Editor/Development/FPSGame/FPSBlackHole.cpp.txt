@@ -1,0 +1,7 @@
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGame\Public\FPSBlackHole.h
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSBlackHole.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

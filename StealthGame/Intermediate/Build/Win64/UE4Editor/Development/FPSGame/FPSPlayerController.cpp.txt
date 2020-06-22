@@ -1,0 +1,3 @@
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGame\Public\FPSPlayerController.h
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSPlayerController.generated.h

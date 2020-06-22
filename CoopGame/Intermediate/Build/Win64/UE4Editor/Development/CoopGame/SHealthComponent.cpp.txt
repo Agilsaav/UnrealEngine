@@ -1,0 +1,3 @@
+D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame\Public\Components\SHealthComponent.h
+D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SHealthComponent.generated.h

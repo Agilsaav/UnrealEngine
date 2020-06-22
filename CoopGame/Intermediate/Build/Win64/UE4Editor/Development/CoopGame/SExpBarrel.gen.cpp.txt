@@ -1,0 +1,5 @@
+D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame/Public/Challenges/SExpBarrel.h
+d:\usuario\documentos\unrealengineproj\coopgame\intermediate\build\win64\ue4editor\inc\coopgame\SExpBarrel.generated.h

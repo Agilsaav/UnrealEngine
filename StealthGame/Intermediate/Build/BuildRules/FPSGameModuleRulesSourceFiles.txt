@@ -1,0 +1,3 @@
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGame\FPSGame.Build.cs
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGame.Target.cs
+D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Source\FPSGameEditor.Target.cs

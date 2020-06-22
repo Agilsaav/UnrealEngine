@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CoopGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{353A77F7-E5D5-47B0-A563-4EE61530D58B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoopGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0226C52C-200E-4207-AB8A-4FD7015F6752}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CoopGame">
+      <UniqueIdentifier>{1013DFF8-69D6-42A8-9545-92DD9E584E62}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
+      <Filter>Source\CoopGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CoopGame\CoopGame.cpp">
+      <Filter>Source\CoopGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGame\CoopGame.h">
+      <Filter>Source\CoopGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGame\CoopGameGameModeBase.cpp">
+      <Filter>Source\CoopGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGame\CoopGameGameModeBase.h">
+      <Filter>Source\CoopGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\CoopGame\Private">
+      <UniqueIdentifier>{071FA69F-C1FA-40DA-8F2D-DAFE1870A290}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SCharacter.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SWeapon.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CoopGame\Public">
+      <UniqueIdentifier>{F6320791-5D2B-4CCD-8E52-AA66591F18B0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SCharacter.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SWeapon.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SProjectileWeapon.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\Components\SHealthComponent.h">
+      <Filter>Source\CoopGame\Public\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\Challenges\SExpBarrel.h">
+      <Filter>Source\CoopGame\Public\Challenges</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SProjectileWeapon.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\Components\SHealthComponent.cpp">
+      <Filter>Source\CoopGame\Private\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\Challenges\SExpBarrel.cpp">
+      <Filter>Source\CoopGame\Private\Challenges</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\CoopGame\Public\Components">
+      <UniqueIdentifier>{719f2337-da74-4cbb-a174-2c8027c258d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CoopGame\Private\Components">
+      <UniqueIdentifier>{27d5098f-abd5-4dfc-ad54-db78c04b1dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CoopGame\Public\Challenges">
+      <UniqueIdentifier>{7eb10a43-6908-40d2-bd98-190e068b2a52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CoopGame\Private\Challenges">
+      <UniqueIdentifier>{20eba42b-8c9f-4fc7-b55d-f0be2f19805e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

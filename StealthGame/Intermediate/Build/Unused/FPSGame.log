@@ -1,0 +1,14 @@
+﻿  Creating makefile for FPSGameEditor (ini files are newer than makefile)
+  Parsing headers for FPSGameEditor
+    Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\FPSGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FPSGameEditor in 4,7161386 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] FPSGameMode.cpp
+    [2/4] UE4Editor-FPSGame.lib
+       Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.exp
+    [3/4] UE4Editor-FPSGame.dll
+       Creating library D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.suppressed.exp
+    [4/4] FPSGameEditor.target
+  Total time in Parallel executor: 3,22 seconds
+  Total execution time: 9,39 seconds
