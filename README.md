@@ -4,7 +4,7 @@ Contains two small games developed using Unreal Engine and C++ following a Udemy
 
 ## Stealh Game:
 
-First-Person stealth game.
+First-Person stealth game with basic multiplayer support.
 
 ## Coop Game:
 
