@@ -1,6 +1,6 @@
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame\Public\SWeapon.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SWeapon.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Public\SWeapon.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SWeapon.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
@@ -24,4 +24,5 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame\CoopGame.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\CoopGame.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

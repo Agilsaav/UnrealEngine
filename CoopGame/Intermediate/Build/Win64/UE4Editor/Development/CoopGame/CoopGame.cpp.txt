@@ -1,2 +1,2 @@
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
-d:\usuario\documentos\unrealengineproj\coopgame\source\coopgame\CoopGame.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+d:\github\unrealengine\coopgame\source\coopgame\CoopGame.h

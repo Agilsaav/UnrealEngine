@@ -78,7 +78,8 @@ private: \
 	friend struct Z_Construct_UClass_USHealthComponent_Statics; \
 public: \
 	DECLARE_CLASS(USHealthComponent, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/CoopGame"), NO_API) \
-	DECLARE_SERIALIZER(USHealthComponent)
+	DECLARE_SERIALIZER(USHealthComponent) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define CoopGame_Source_CoopGame_Public_Components_SHealthComponent_h_13_INCLASS \
@@ -87,7 +88,8 @@ private: \
 	friend struct Z_Construct_UClass_USHealthComponent_Statics; \
 public: \
 	DECLARE_CLASS(USHealthComponent, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/CoopGame"), NO_API) \
-	DECLARE_SERIALIZER(USHealthComponent)
+	DECLARE_SERIALIZER(USHealthComponent) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define CoopGame_Source_CoopGame_Public_Components_SHealthComponent_h_13_STANDARD_CONSTRUCTORS \

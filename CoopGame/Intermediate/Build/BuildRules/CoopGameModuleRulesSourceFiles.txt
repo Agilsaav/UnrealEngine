@@ -1,3 +1,3 @@
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame\CoopGame.Build.cs
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame.Target.cs
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGameEditor.Target.cs
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\CoopGame.Build.cs
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame.Target.cs
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGameEditor.Target.cs

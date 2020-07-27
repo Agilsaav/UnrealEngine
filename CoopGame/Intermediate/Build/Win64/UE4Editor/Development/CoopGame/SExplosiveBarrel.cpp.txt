@@ -1,8 +1,8 @@
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
-d:\usuario\documentos\unrealengineproj\coopgame\source\coopgame\challenges\SExplosiveBarrel.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SExplosiveBarrel.generated.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Source\CoopGame\Public\Challenges\../Components/SHealthComponent.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SHealthComponent.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+d:\github\unrealengine\coopgame\source\coopgame\challenges\SExplosiveBarrel.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SExplosiveBarrel.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Public\Challenges\../Components/SHealthComponent.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SHealthComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h

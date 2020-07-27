@@ -1,7 +1,7 @@
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
-d:\usuario\documentos\unrealengineproj\coopgame\source\coopgame\CoopGameGameModeBase.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+d:\github\unrealengine\coopgame\source\coopgame\CoopGameGameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\CoopGameGameModeBase.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\CoopGameGameModeBase.generated.h

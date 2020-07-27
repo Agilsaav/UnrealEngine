@@ -8,6 +8,20 @@ class USkeletalMeshComponent;
 class UDamageType;
 class UParticleSystem;
 
+//Contains information of a single hitscan weapon
+USTRUCT()
+struct FHitScanTrace
+{
+	GENERATED_BODY()
+
+public:
+	UPROPERTY()
+	TEnumAsByte<EPhysicalSurface> SurfaceType;
+
+	UPROPERTY()
+	FVector_NetQuantize TraceTo;
+};
+
 
 UCLASS()
 class COOPGAME_API ASWeapon : public AActor
@@ -64,8 +78,19 @@ protected:
 
 	//Effects:
 	void PlayFireEffects(FVector TracerEnd);
+	void PlayImpactEffects(EPhysicalSurface SurfaceType, FVector ImpactPoint);
 
 	virtual void Fire();
+
+	//Server:
+	UFUNCTION(Server, Reliable, WithValidation)
+	void ServerFire();
+
+	UPROPERTY(ReplicatedUsing = OnRep_HitScanTrace)
+	FHitScanTrace HitScanTrace;
+
+	UFUNCTION()
+	void OnRep_HitScanTrace();
 
 public:	
 
