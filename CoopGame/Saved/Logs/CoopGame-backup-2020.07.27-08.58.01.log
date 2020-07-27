@@ -1,0 +1,1151 @@
+﻿Log file open, 07/27/20 09:53:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CoopGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262193
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Blackmaxic -epicuserid=6612d62754d34bd8b7fbed12a18e7a5a -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.27-07.53.50:807][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.27-07.53.50:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:808][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.27-07.53.50:812][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.27-07.53.50:813][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.27-07.53.50:813][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.27-07.53.50:813][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.27-07.53.50:848][  0]LogHAL: Display: Platform has ~ 16 GB [17138606080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.07.27-07.53.50:848][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.27-07.53.50:848][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.27-07.53.50:848][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.27-07.53.50:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.07.27-07.53.50:849][  0]LogInit: Computer: DESKTOP-MQ854L0
+[2020.07.27-07.53.50:849][  0]LogInit: User: alber
+[2020.07.27-07.53.50:849][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.27-07.53.50:849][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.27-07.53.50:849][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.07.27-07.53.50:849][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.27-07.53.50:849][  0]LogMemory: Process Physical Memory: 97.88 MB used, 97.88 MB peak
+[2020.07.27-07.53.50:849][  0]LogMemory: Process Virtual Memory: 89.02 MB used, 89.02 MB peak
+[2020.07.27-07.53.50:849][  0]LogMemory: Physical Memory: 8880.60 MB used,  7464.05 MB free, 16344.65 MB total
+[2020.07.27-07.53.50:849][  0]LogMemory: Virtual Memory: 4641.88 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.07.27-07.53.50:868][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.07.27-07.53.50:868][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.07.27-07.53.50:868][  0]LogInit: Using OS detected locale (es-ES).
+[2020.07.27-07.53.51:007][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.27-07.53.51:039][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.27-07.53.51:039][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.27-07.53.51:181][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.27-07.53.51:234][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.07.27-07.53.51:234][  0]LogD3D11RHI:       4043/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.27-07.53.51:237][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.27-07.53.51:237][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.27-07.53.51:237][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.27-07.53.51:244][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.27-07.53.51:244][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.27-07.53.51:244][  0]LogWindows: EnumDisplayDevices:
+[2020.07.27-07.53.51:244][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.07.27-07.53.51:245][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.07.27-07.53.51:245][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.07.27-07.53.51:245][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.07.27-07.53.51:245][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.27-07.53.51:245][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.07.27-07.53.51:245][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.07.27-07.53.51:245][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.07.27-07.53.51:245][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.07.27-07.53.51:286][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.27-07.53.51:296][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.27-07.53.51:297][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.27-07.53.51:297][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.27-07.53.51:304][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.27-07.53.51:573][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.27-07.53.51:585][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.27-07.53.51:596][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.27-07.53.51:607][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.27-07.53.51:619][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.27-07.53.51:630][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.27-07.53.51:642][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.27-07.53.51:653][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.27-07.53.51:659][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.27-07.53.51:726][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.27-07.53.51:728][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.27-07.53.51:772][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.27-07.53.51:772][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.27-07.53.51:797][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.27-07.53.51:797][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.27-07.53.51:808][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.27-07.53.51:821][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.27-07.53.51:832][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.27-07.53.51:842][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.27-07.53.51:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.27-07.53.51:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.27-07.53.51:878][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.27-07.53.51:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.27-07.53.51:932][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/GitHub/UnrealEngine/CoopGame/Intermediate/Shaders/WorkingDirectory/19248/).
+[2020.07.27-07.53.51:932][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alber/AppData/Local/Temp/UnrealShaderWorkingDir/0CDE0F6549FEACA2059D44B5CBE68988/'.
+[2020.07.27-07.53.51:934][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.27-07.53.51:934][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.27-07.53.51:934][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.27-07.53.52:374][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.27-07.53.52:415][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.27-07.53.52:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.07.27-07.53.52:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/UnrealEngine/CoopGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.27-07.53.52:416][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.27-07.53.52:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/UnrealEngine/CoopGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.27-07.53.52:416][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.27-07.53.52:427][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.27-07.53.52:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.27-07.53.52:427][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.27-07.53.52:439][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.27-07.53.52:439][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.27-07.53.52:439][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.27-07.53.52:456][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.27-07.53.52:457][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.27-07.53.52:458][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.27-07.53.52:528][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2020.07.27-07.53.52:796][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.27-07.53.52:841][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.27-07.53.52:841][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.27-07.53.52:841][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.27-07.53.52:841][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.27-07.53.52:841][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.27-07.53.52:919][  0]LogNetVersion: CoopGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3513699854)
+[2020.07.27-07.53.53:282][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.073439 seconds
+[2020.07.27-07.53.53:287][  0]LogUObjectArray: 41958 objects as part of root set at end of initial load.
+[2020.07.27-07.53.53:287][  0]LogUObjectAllocator: 7284248 out of 0 bytes used by permanent object pool.
+[2020.07.27-07.53.53:287][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.27-07.53.53:949][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.27-07.53.53:962][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.27-07.53.54:311][  0]SourceControl: Source control is disabled
+[2020.07.27-07.53.54:311][  0]SourceControl: Source control is disabled
+[2020.07.27-07.53.54:312][  0]SourceControl: Source control is disabled
+[2020.07.27-07.53.54:313][  0]SourceControl: Source control is disabled
+[2020.07.27-07.53.54:375][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.27-07.53.54:452][  0]LogOcInput: OculusInput pre-init called
+[2020.07.27-07.53.54:985][  0]LogEngine: Initializing Engine...
+[2020.07.27-07.53.54:986][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.27-07.53.55:156][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.27-07.53.55:170][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.27-07.53.55:195][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.27-07.53.55:209][  0]LogInit: FAudioDevice initialized.
+[2020.07.27-07.53.55:209][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.27-07.53.55:246][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.27-07.53.55:249][  0]LogInit: Texture streaming: Enabled
+[2020.07.27-07.53.55:266][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.27-07.53.55:283][  0]LogInit: Transaction tracking system initialized
+[2020.07.27-07.53.55:306][  0]BlueprintLog: New page: Editor Load
+[2020.07.27-07.53.55:375][  0]LocalizationService: Localization service is disabled
+[2020.07.27-07.53.55:851][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/' took 0.21s
+[2020.07.27-07.53.55:851][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.27-07.53.55:852][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.27-07.53.55:994][  0]SourceControl: Source control is disabled
+[2020.07.27-07.53.55:994][  0]Cmd: MAP LOAD FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.27-07.53.55:994][  0]LightingResults: New page: Lighting Build
+[2020.07.27-07.53.55:996][  0]MapCheck: New page: Map Check
+[2020.07.27-07.53.55:996][  0]LightingResults: New page: Lighting Build
+[2020.07.27-07.53.56:015][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.07.27-07.53.58:313][  0]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-07.53.58:320][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.27-07.53.58:342][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.27-07.53.58:342][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.27-07.53.58:342][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2020.07.27-07.53.58:342][  0]LogFileHelpers: Loading map 'P_TestMap' took 2.348
+[2020.07.27-07.53.58:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-07.53.58:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-07.53.58:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-07.53.58:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-07.53.58:559][  0]LogCollectionManager: Loaded 0 collections in 0.001282 seconds
+[2020.07.27-07.53.58:583][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Saved/Collections/' took 0.01s
+[2020.07.27-07.53.58:583][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/Developers/alber/Collections/' took 0.00s
+[2020.07.27-07.53.58:583][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/Collections/' took 0.00s
+[2020.07.27-07.53.58:583][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.07.27-07.53.58:591][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2737 classes and 660 folders.
+[2020.07.27-07.53.58:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.27-07.53.58:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.27-07.53.58:873][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.27-07.53.58:884][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.07.27-07.53.58:985][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.27-07.53.58:988][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.27-07.53.58:996][  0]LogSlate: Took 0.004493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.27-07.53.59:099][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2020.07.27-07.53.59:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.27-07.53.59:237][  0]LogLoad: (Engine Initialization) Total time: 10.18 seconds
+[2020.07.27-07.53.59:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.27-07.53.59:266][  0]LogAssetRegistry: Asset discovery search completed in 6.7608 seconds
+[2020.07.27-07.53.59:269][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.07.27-07.53.59:269][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2020.07.27-07.53.59:271][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.27-07.53.59:357][  0]LogSlate: Took 0.004365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.27-07.54.00:256][ 92]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.27-08.04.29:442][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.05.02:290][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.27-08.05.02:427][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrakerBot.BP_TrakerBot
+[2020.07.27-08.05.02:737][806]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.07.27-08.05.05:671][ 48]LogSlate: Window 'Class Defaults' being destroyed
+[2020.07.27-08.05.05:674][ 48]LogSlate: Window 'Class Defaults' being destroyed
+[2020.07.27-08.05.05:674][ 48]LogSlate: Window 'BP_TrakerBot' being destroyed
+[2020.07.27-08.05.05:738][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.05.05:740][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrakerBot.BP_TrakerBot
+[2020.07.27-08.05.06:038][ 48]LogSlate: Took 0.004277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.27-08.05.07:356][201]LogSlate: Window 'BP_TrakerBot' being destroyed
+[2020.07.27-08.05.08:100][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.27-08.06.32:322][998]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.06.32:460][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.27-08.06.32:484][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.06.32:510][998]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot1B7F11964BB5983D1777029AD39ED716.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.07.05:481][948]LogSlate: Took 0.005234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.27-08.07.10:269][521]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.07.10:386][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.07.27-08.07.10:411][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.07.10:432][521]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot9D018DE14619329308DE08A4484214DF.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.07.12:297][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.07.12:322][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.07.27-08.07.12:449][739]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap91C798DB43561FCDD3460E8CB1A9636E.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.07.12:477][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.07.12:496][739]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData01E62D5C4C870958D0867386FC22E800.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.07.13:639][875]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.27-08.07.13:656][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.07.13:656][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.27-08.07.13:657][875]PIE: New page: PIE session: P_TestMap (27/7/2020 12:07:13)
+[2020.07.27-08.07.13:670][875]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_P_TestMap
+[2020.07.27-08.07.13:673][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002738s)
+[2020.07.27-08.07.13:673][875]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.07.13:674][875]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.07.27-08.07.13:674][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap (0.003528s)
+[2020.07.27-08.07.13:697][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.27-08.07.13:715][875]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.27-08.07.13:725][875]LogInit: FAudioDevice initialized.
+[2020.07.27-08.07.13:764][875]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.07.27-08.07.13:766][875]LogWorld: Bringing World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.07.13
+[2020.07.27-08.07.13:767][875]LogWorld: Bringing up level for play took: 0.002073
+[2020.07.27-08.07.13:784][875]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.07.27-08.07.13:789][875]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.07.27-08.07.13:790][875]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.07.27-08.07.13:793][875]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.07.13:793][875]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.07.27-08.07.13:793][875]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.07.13:793][875]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.27-08.07.13:793][875]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.27-08.07.13:794][875]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.07.27-08.07.13:794][875]LogInit: WinSock: I am DESKTOP-MQ854L0 (192.168.1.37:0)
+[2020.07.27-08.07.13:794][875]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.07.13:794][875]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.07.27-08.07.13:797][875]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_P_TestMap -0,638
+[2020.07.27-08.07.13:799][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.07.13:803][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.07.13:835][875]LogNet: Browse: 127.0.0.1:17777//Game/Maps/P_TestMap
+[2020.07.27-08.07.13:835][875]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.07.13:835][875]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.07.27-08.07.13:835][875]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.27-08.07.13:835][875]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.07.27-08.07.13:836][875]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.07.13:836][875]LogNet: Game client on port 17777, rate 10000
+[2020.07.27-08.07.13:838][875]PIE: Play in editor start time for /Game/Maps/P_TestMap -0,596
+[2020.07.27-08.07.13:840][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.07.13:841][875]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58663
+[2020.07.27-08.07.13:841][875]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 183191212053114176145018053094199105077046058109060113121154
+[2020.07.27-08.07.13:851][875]LogBlueprintActionDatabase: Requesting refresh due to module change: PerfCounters (loaded)
+[2020.07.27-08.07.13:851][875]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 183191212053114176145018053094199105077046058109060113121154
+[2020.07.27-08.07.14:110][876]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58663
+[2020.07.27-08.07.14:110][876]LogHandshake: SendChallengeAck. InCookie: 183191212053114176145018053094199105077046058109060113121154
+[2020.07.27-08.07.14:110][876]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58663
+[2020.07.27-08.07.14:110][876]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.07.14:110][876]LogNet: NotifyAcceptedConnection: Name: P_TestMap, TimeStamp: 07/27/20 10:07:14, [UNetConnection] RemoteAddr: 127.0.0.1:58663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.07.14:111][876]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.07.14:111][876]LogNetVersion: CoopGame 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2350530410)
+[2020.07.27-08.07.14:112][876]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.07.14:118][877]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap: Accepted
+[2020.07.27-08.07.14:118][877]LogNet: Remote platform little endian=1
+[2020.07.27-08.07.14:118][877]LogNet: This platform little endian=1
+[2020.07.27-08.07.14:137][878]LogNet: Login request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB userId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB platform: NULL
+[2020.07.27-08.07.14:137][878]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_P_TestMap, Game: /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C)
+[2020.07.27-08.07.14:138][878]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_P_TestMap?game=/Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C
+[2020.07.27-08.07.14:179][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.07.27-08.07.14:183][878]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.07.14:184][878]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.07.14:185][878]LogWorld: Bringing World /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.07.14
+[2020.07.27-08.07.14:185][878]LogWorld: Bringing up level for play took: 0.000876
+[2020.07.27-08.07.14:185][878]LogLoad: Took 0.048507 seconds to LoadMap(/Game/Maps/UEDPIE_1_P_TestMap)
+[2020.07.27-08.07.14:199][879]LogNet: Client netspeed is 10000
+[2020.07.27-08.07.14:199][879]LogNet: Join request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB?SplitscreenCount=1
+[2020.07.27-08.07.14:200][879]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.07.14:203][879]LogNet: Join succeeded: DESKTOP-MQ854L0-B9C2
+[2020.07.27-08.07.14:239][882]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.07.14:323][892]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.07.14:340][894]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2020.07.27-08.07.15:723][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.07.15:723][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.07.15:734][ 60]LogSlate: Window 'CoopGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.27-08.07.15:761][ 60]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.07.27-08.07.15:761][ 60]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.07.27-08.07.15:761][ 60]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB, Channels: 13, Time: 2020.07.27-08.07.15
+[2020.07.27-08.07.15:761][ 60]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB
+[2020.07.27-08.07.15:761][ 60]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.07.27-08.07.15:762][ 60]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.27-08.07.15:762][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.07.15:787][ 60]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.07.27-08.07.15:787][ 60]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.07.27-08.07.15:787][ 60]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB
+[2020.07.27-08.07.15:787][ 60]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB, Channels: 13, Time: 2020.07.27-08.07.15
+[2020.07.27-08.07.15:787][ 60]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-B9C293534AC271B7D69D558A73A6A7EB
+[2020.07.27-08.07.15:787][ 60]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.07.27-08.07.15:788][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.27-08.07.15:788][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.07.15:816][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.07.15:822][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.27-08.07.15:834][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.27-08.07.15:834][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.27-08.07.22:837][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.27-08.07.25:157][895]Cmd: DELETE
+[2020.07.27-08.07.25:157][895]Cmd: ACTOR DELETE
+[2020.07.27-08.07.25:160][895]LogEditorActor: Deleted Actor: PainCausingVolume
+[2020.07.27-08.07.25:186][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.27-08.07.25:186][895]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.07.27-08.07.26:901][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.07.26:929][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.07.27-08.07.27:069][100]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap4E6933AB4E315E8C0B9EB8B5B66F1345.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.07.27:094][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.07.27:107][100]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData72CD9F9A4A3554315D79F98A987FA9A8.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.08.30:542][371]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.08.30:686][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.27-08.08.30:711][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.08.30:731][371]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBotA5BA9787429A8539826CA4BB41B99C25.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.08.45:443][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.08.45:459][133]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot6F3F1083485B4F7F81F1EB9002A15D7F.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.08.47:636][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.08.47:668][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.27-08.08.47:815][392]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap027A099247936940BE705AAE74B7C8CB.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.08.47:840][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.08.47:853][392]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData7467DFE343893AFEDBA1239718C4288B.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.08.57:162][506]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.08.57:307][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.07.27-08.08.57:331][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.08.57:352][506]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot3CEF709A48EE3B0476D73A871A204F57.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.08.58:592][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.08.58:618][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.27-08.08.58:761][652]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMapD4064C94485FEA8C652F52A1E718177C.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.08.58:787][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.08.58:800][652]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData998427784E3C7E255C4368825A6C10A2.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.09.30:091][236]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.09.30:232][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.27-08.09.30:254][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.09.30:274][236]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot8F801F094DC0313997CBD18FBDBB442B.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.10.44:101][729]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.10.44:248][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.27-08.10.44:270][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.10.44:294][729]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot2C3A318D458DC7735B4E6E97FC2ADF94.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.11.46:137][509]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.27-08.12.00:538][416]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.12.00:688][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.07.27-08.12.00:715][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.12.00:744][416]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot3EEAF4C44D6FE2F14B3A30871483DD2A.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.14.00:852][ 18]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.14.01:004][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.07.27-08.14.01:042][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.14.01:070][ 18]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBotCCC7570841442FB8D323D798BCE0F0CF.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.14.03:605][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.14.03:634][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.27-08.14.03:782][305]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap10B153EA480EB2BC25080EA3825C99ED.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.14.03:807][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.14.03:824][305]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData1A34EA054510D00DC92C5E9E7A8981F7.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.14.09:664][613]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.27-08.14.09:683][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.09:684][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.27-08.14.09:684][613]PIE: New page: PIE session: P_TestMap (27/7/2020 12:14:09)
+[2020.07.27-08.14.09:684][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_P_TestMap
+[2020.07.27-08.14.09:687][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2020.07.27-08.14.09:687][613]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.14.09:688][613]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.07.27-08.14.09:688][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap (0.003994s)
+[2020.07.27-08.14.09:719][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.27-08.14.09:739][613]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.27-08.14.09:750][613]LogInit: FAudioDevice initialized.
+[2020.07.27-08.14.09:777][613]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.07.27-08.14.09:778][613]LogWorld: Bringing World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.14.09
+[2020.07.27-08.14.09:778][613]LogWorld: Bringing up level for play took: 0.001240
+[2020.07.27-08.14.09:791][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.09:791][613]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.07.27-08.14.09:791][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.09:791][613]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.27-08.14.09:792][613]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.27-08.14.09:792][613]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.07.27-08.14.09:792][613]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.09:792][613]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.07.27-08.14.09:793][613]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_P_TestMap -0,641
+[2020.07.27-08.14.09:796][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.14.09:801][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.09:832][613]LogNet: Browse: 127.0.0.1:17777//Game/Maps/P_TestMap
+[2020.07.27-08.14.09:832][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.09:832][613]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.07.27-08.14.09:832][613]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.27-08.14.09:832][613]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.07.27-08.14.09:833][613]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.09:833][613]LogNet: Game client on port 17777, rate 10000
+[2020.07.27-08.14.09:834][613]PIE: Play in editor start time for /Game/Maps/P_TestMap -0,6
+[2020.07.27-08.14.09:837][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.09:837][613]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52369
+[2020.07.27-08.14.09:837][613]LogHandshake: SendConnectChallenge. Timestamp: 0.333334, Cookie: 062012004171095192212029125156150234184119103202236140039198
+[2020.07.27-08.14.09:838][613]LogHandshake: SendChallengeResponse. Timestamp: 0.333334, Cookie: 062012004171095192212029125156150234184119103202236140039198
+[2020.07.27-08.14.09:846][614]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52369
+[2020.07.27-08.14.09:847][614]LogHandshake: SendChallengeAck. InCookie: 062012004171095192212029125156150234184119103202236140039198
+[2020.07.27-08.14.09:847][614]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52369
+[2020.07.27-08.14.09:847][614]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.09:847][614]LogNet: NotifyAcceptedConnection: Name: P_TestMap, TimeStamp: 07/27/20 10:14:09, [UNetConnection] RemoteAddr: 127.0.0.1:52369, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.09:847][614]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52369, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.09:848][614]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.09:872][615]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap: Accepted
+[2020.07.27-08.14.09:872][615]LogNet: Remote platform little endian=1
+[2020.07.27-08.14.09:872][615]LogNet: This platform little endian=1
+[2020.07.27-08.14.09:889][616]LogNet: Login request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668 userId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668 platform: NULL
+[2020.07.27-08.14.09:890][616]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_P_TestMap, Game: /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C)
+[2020.07.27-08.14.09:890][616]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_P_TestMap?game=/Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C
+[2020.07.27-08.14.09:920][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.27-08.14.09:924][616]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.14.09:924][616]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.09:925][616]LogWorld: Bringing World /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.14.09
+[2020.07.27-08.14.09:926][616]LogWorld: Bringing up level for play took: 0.000918
+[2020.07.27-08.14.09:926][616]LogLoad: Took 0.035358 seconds to LoadMap(/Game/Maps/UEDPIE_1_P_TestMap)
+[2020.07.27-08.14.09:938][617]LogNet: Client netspeed is 10000
+[2020.07.27-08.14.09:938][617]LogNet: Join request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668?SplitscreenCount=1
+[2020.07.27-08.14.09:938][617]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.09:940][617]LogNet: Join succeeded: DESKTOP-MQ854L0-ACD7
+[2020.07.27-08.14.10:000][623]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.10:055][629]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.10:093][633]LogScript: Warning: Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue
+	BP_TrakerBot_C /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap:PersistentLevel.BP_TrakerBot_8
+	Function /Game/Blueprints/BP_TrakerBot.BP_TrakerBot_C:ExecuteUbergraph_BP_TrakerBot:0166
+[2020.07.27-08.14.10:093][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue". Blueprint:  BP_TrakerBot Function:  Execute Ubergraph BP Traker Bot Graph:  ForEachLoop Node:  Branch
+[2020.07.27-08.14.10:093][633]LogScript: Warning: Accessed None
+	BP_TrakerBot_C /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap:PersistentLevel.BP_TrakerBot_8
+	Function /Game/Blueprints/BP_TrakerBot.BP_TrakerBot_C:ExecuteUbergraph_BP_TrakerBot:0147
+[2020.07.27-08.14.10:093][633]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_TrakerBot Function:  Execute Ubergraph BP Traker Bot Graph:  ForEachLoop Node:  Branch
+[2020.07.27-08.14.14:409][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.14:409][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.14:422][150]LogSlate: Window 'CoopGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.27-08.14.14:453][150]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2020.07.27-08.14.14:453][150]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2020.07.27-08.14.14:453][150]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668, Channels: 13, Time: 2020.07.27-08.14.14
+[2020.07.27-08.14.14:453][150]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668
+[2020.07.27-08.14.14:453][150]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2020.07.27-08.14.14:454][150]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.27-08.14.14:454][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.14:487][150]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.07.27-08.14.14:487][150]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.07.27-08.14.14:487][150]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52369, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668
+[2020.07.27-08.14.14:487][150]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52369, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668, Channels: 13, Time: 2020.07.27-08.14.14
+[2020.07.27-08.14.14:487][150]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52369, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-ACD7F0A94855C110914CD88AE1E44668
+[2020.07.27-08.14.14:487][150]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.07.27-08.14.14:488][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.27-08.14.14:488][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.14:518][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.14:522][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.27-08.14.14:528][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.14.14:551][151]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.27-08.14.14:551][151]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.07.27-08.14.19:208][708]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.14.19:211][708]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.14.32:866][213]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.27-08.14.32:878][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.32:878][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.27-08.14.32:878][213]PIE: New page: PIE session: P_TestMap (27/7/2020 12:14:32)
+[2020.07.27-08.14.32:878][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_P_TestMap
+[2020.07.27-08.14.32:881][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2020.07.27-08.14.32:881][213]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.14.32:882][213]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2020.07.27-08.14.32:882][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap (0.003541s)
+[2020.07.27-08.14.32:907][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.07.27-08.14.32:925][213]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.27-08.14.32:935][213]LogInit: FAudioDevice initialized.
+[2020.07.27-08.14.32:964][213]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.07.27-08.14.32:965][213]LogWorld: Bringing World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.14.32
+[2020.07.27-08.14.32:966][213]LogWorld: Bringing up level for play took: 0.001513
+[2020.07.27-08.14.32:979][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.32:979][213]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.07.27-08.14.32:979][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.32:979][213]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.27-08.14.32:979][213]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.27-08.14.32:979][213]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.07.27-08.14.32:980][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.32:980][213]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2020.07.27-08.14.32:981][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_P_TestMap 0,547
+[2020.07.27-08.14.32:983][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.14.32:987][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.33:018][213]LogNet: Browse: 127.0.0.1:17777//Game/Maps/P_TestMap
+[2020.07.27-08.14.33:018][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.33:018][213]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.07.27-08.14.33:018][213]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.27-08.14.33:018][213]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.07.27-08.14.33:018][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.33:018][213]LogNet: Game client on port 17777, rate 10000
+[2020.07.27-08.14.33:020][213]PIE: Play in editor start time for /Game/Maps/P_TestMap 0,586
+[2020.07.27-08.14.33:022][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.33:022][213]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54065
+[2020.07.27-08.14.33:022][213]LogHandshake: SendConnectChallenge. Timestamp: 0.333334, Cookie: 227029199243214106084086105118183013163170152164098061245040
+[2020.07.27-08.14.33:024][213]LogHandshake: SendChallengeResponse. Timestamp: 0.333334, Cookie: 227029199243214106084086105118183013163170152164098061245040
+[2020.07.27-08.14.33:031][214]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54065
+[2020.07.27-08.14.33:031][214]LogHandshake: SendChallengeAck. InCookie: 227029199243214106084086105118183013163170152164098061245040
+[2020.07.27-08.14.33:031][214]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54065
+[2020.07.27-08.14.33:032][214]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.14.33:032][214]LogNet: NotifyAcceptedConnection: Name: P_TestMap, TimeStamp: 07/27/20 10:14:33, [UNetConnection] RemoteAddr: 127.0.0.1:54065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.33:032][214]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.33:032][214]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.14.33:055][215]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap: Accepted
+[2020.07.27-08.14.33:055][215]LogNet: Remote platform little endian=1
+[2020.07.27-08.14.33:055][215]LogNet: This platform little endian=1
+[2020.07.27-08.14.33:072][216]LogNet: Login request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C userId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C platform: NULL
+[2020.07.27-08.14.33:073][216]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_P_TestMap, Game: /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C)
+[2020.07.27-08.14.33:073][216]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_P_TestMap?game=/Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C
+[2020.07.27-08.14.33:100][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.27-08.14.33:103][216]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.14.33:103][216]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.14.33:104][216]LogWorld: Bringing World /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.14.33
+[2020.07.27-08.14.33:105][216]LogWorld: Bringing up level for play took: 0.000842
+[2020.07.27-08.14.33:105][216]LogLoad: Took 0.032863 seconds to LoadMap(/Game/Maps/UEDPIE_1_P_TestMap)
+[2020.07.27-08.14.33:115][217]LogNet: Client netspeed is 10000
+[2020.07.27-08.14.33:115][217]LogNet: Join request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C?SplitscreenCount=1
+[2020.07.27-08.14.33:115][217]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.33:117][217]LogNet: Join succeeded: DESKTOP-MQ854L0-CA2F
+[2020.07.27-08.14.33:192][226]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.33:217][229]LogScript: Warning: Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue
+	BP_TrakerBot_C /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap:PersistentLevel.BP_TrakerBot_8
+	Function /Game/Blueprints/BP_TrakerBot.BP_TrakerBot_C:ExecuteUbergraph_BP_TrakerBot:0166
+[2020.07.27-08.14.33:217][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue". Blueprint:  BP_TrakerBot Function:  Execute Ubergraph BP Traker Bot Graph:  ForEachLoop Node:  Branch
+[2020.07.27-08.14.33:217][229]LogScript: Warning: Accessed None
+	BP_TrakerBot_C /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap:PersistentLevel.BP_TrakerBot_8
+	Function /Game/Blueprints/BP_TrakerBot.BP_TrakerBot_C:ExecuteUbergraph_BP_TrakerBot:0147
+[2020.07.27-08.14.33:217][229]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_TrakerBot Function:  Execute Ubergraph BP Traker Bot Graph:  ForEachLoop Node:  Branch
+[2020.07.27-08.14.33:259][234]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.14.38:159][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.38:159][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.38:171][822]LogSlate: Window 'CoopGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.27-08.14.38:200][822]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2020.07.27-08.14.38:200][822]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2020.07.27-08.14.38:200][822]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C, Channels: 14, Time: 2020.07.27-08.14.38
+[2020.07.27-08.14.38:200][822]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C
+[2020.07.27-08.14.38:200][822]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2020.07.27-08.14.38:201][822]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.27-08.14.38:201][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.38:233][822]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2020.07.27-08.14.38:233][822]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2020.07.27-08.14.38:233][822]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C
+[2020.07.27-08.14.38:233][822]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C, Channels: 14, Time: 2020.07.27-08.14.38
+[2020.07.27-08.14.38:233][822]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-MQ854L0-CA2FB1094F31F4CE34E7379908A0B80C
+[2020.07.27-08.14.38:233][822]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2020.07.27-08.14.38:234][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.27-08.14.38:234][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.14.38:267][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.14.38:270][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.07.27-08.14.38:277][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.14.38:299][823]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.27-08.14.38:299][823]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.27-08.14.39:746][995]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.14.39:748][995]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.22.47:046][128]BlueprintLog: New page: Compile BP_TrakerBot
+[2020.07.27-08.22.47:197][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.07.27-08.22.47:219][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TrakerBot" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset" SILENT=true
+[2020.07.27-08.22.47:245][128]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TrakerBot7B2C20554712D4315D6671BD272DF0E5.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TrakerBot.uasset'
+[2020.07.27-08.22.48:531][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-08.22.48:556][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.07.27-08.22.48:720][280]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap0B17C238455400A5E80437A50AFE2EC2.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.07.27-08.22.48:745][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.07.27-08.22.48:763][280]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData6433401A40AABA0A61520FA3BC6823A0.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.07.27-08.32.33:691][153]Candidate modules for hot reload:
+[2020.07.27-08.32.33:691][153]  CoopGame
+[2020.07.27-08.32.33:691][153]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,6530 Win64 Development -TargetType=Editor -Project="D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject" "D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2020.07.27-08.32.33:694][153]Warning: Starting HotReload took  0.0s.
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: New page: Compilation - 27/7/2020 12:37:24
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\UnrealEngine).
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Creating makefile for CoopGameEditor (ini files are newer than makefile)
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Parsing headers for CoopGameEditor
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\UnrealEngine\CoopGame\CoopGame.uproject" "D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Reflection code generated for CoopGameEditor in 17,9222045 seconds
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Error: D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Private\Components\SHealthComponent.cpp(1) : error: Expected SHealthComponent.h to be first header included.
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:   [1/5] STrackerBot.gen.cpp
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:   [2/5] STrackerBot.cpp
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:   [3/5] UE4Editor-CoopGame-6530.lib
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-6530.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-6530.exp
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:   [4/5] UE4Editor-CoopGame-6530.dll
+[2020.07.27-08.37.24:850][506]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-6530.suppressed.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-6530.suppressed.exp
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Error:   STrackerBot.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UNavigationPath * __cdecl UNavigationSystemV1::FindPathToActorSynchronously(class UObject *,struct FVector const &,class AActor *,float,class AActor *,class TSubclassOf<class UNavigationQueryFilter>)" (__imp_?FindPathToActorSynchronously@UNavigationSystemV1@@SAPEAVUNavigationPath@@PEAVUObject@@AEBUFVector@@PEAVAActor@@M2V?$TSubclassOf@VUNavigationQueryFilter@@@@@Z) referenced in function "protected: struct FVector __cdecl ASTrackerBot::GetNextPathPoint(void)" (?GetNextPathPoint@ASTrackerBot@@IEAA?AUFVector@@XZ)
+[2020.07.27-08.37.24:850][506]CompilerResultsLog: Error:   D:\GitHub\UnrealEngine\CoopGame\Binaries\Win64\UE4Editor-CoopGame-6530.dll : fatal error LNK1120: 1 unresolved externals
+[2020.07.27-08.37.24:850][506]LogMainFrame: MainFrame: Module compiling took 291.161 seconds
+[2020.07.27-08.37.24:850][506]Warning: HotReload failed, recompile failed
+[2020.07.27-08.37.49:968][252]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.37.49:971][252]LogSlate: Window 'Message Log' being destroyed
+[2020.07.27-08.43.03:638][485]Candidate modules for hot reload:
+[2020.07.27-08.43.03:638][485]  CoopGame
+[2020.07.27-08.43.03:638][485]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,5396 Win64 Development -TargetType=Editor -Project="D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject" "D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2020.07.27-08.43.03:641][485]Warning: Starting HotReload took  0.0s.
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: New page: Compilation - 27/7/2020 12:43:13
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\UnrealEngine).
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Invalidating makefile for CoopGameEditor (CoopGame.Build.cs modified)
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Parsing headers for CoopGameEditor
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\UnrealEngine\CoopGame\CoopGame.uproject" "D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Reflection code generated for CoopGameEditor in 4,8842546 seconds
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Error: D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Private\Components\SHealthComponent.cpp(1) : error: Expected SHealthComponent.h to be first header included.
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:   [1/4] STrackerBot.cpp
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:   [2/4] UE4Editor-CoopGame-5396.lib
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-5396.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-5396.exp
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:   [3/4] UE4Editor-CoopGame-5396.dll
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-5396.suppressed.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-5396.suppressed.exp
+[2020.07.27-08.43.13:310][777]CompilerResultsLog:   [4/4] CoopGameEditor.target
+[2020.07.27-08.43.13:310][777]CompilerResultsLog: Total time in Parallel executor: 2,57 seconds
+[2020.07.27-08.43.13:311][777]CompilerResultsLog: Total execution time: 9,48 seconds
+[2020.07.27-08.43.13:311][777]LogMainFrame: MainFrame: Module compiling took 9.674 seconds
+[2020.07.27-08.43.13:340][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.07.27-08.43.13:341][777]LogBlueprintActionDatabase: Requesting refresh due to module change: CoopGame (unloaded)
+[2020.07.27-08.43.13:375][777]LogClass: HitScanTrace HotReload.
+[2020.07.27-08.43.13:383][777]LogBlueprintActionDatabase: Requesting refresh due to module change: CoopGame (loaded)
+[2020.07.27-08.43.13:384][777]LogContentBrowser: Native class hierarchy updated for 'CoopGame' in 0.0005 seconds. Added 8 classes and 6 folders.
+[2020.07.27-08.43.13:387][777]Display: HotReload successful (6 functions remapped  1 scriptstructs remapped)
+[2020.07.27-08.43.13:531][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.27-08.43.13:532][777]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.07.27-08.43.13:551][777]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2738 classes and 662 folders.
+[2020.07.27-08.43.13:551][777]Display: HotReload took  9.9s.
+[2020.07.27-08.57.37:041][511]Candidate modules for hot reload:
+[2020.07.27-08.57.37:041][511]  CoopGame
+[2020.07.27-08.57.37:042][511]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CoopGame,2779 Win64 Development -TargetType=Editor -Project="D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject" "D:/GitHub/UnrealEngine/CoopGame/CoopGame.uproject"  -IgnoreJunk]
+[2020.07.27-08.57.37:045][511]Warning: Starting HotReload took  0.0s.
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: New page: Compilation - 27/7/2020 12:57:47
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\UnrealEngine).
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Parsing headers for CoopGameEditor
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\UnrealEngine\CoopGame\CoopGame.uproject" "D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Reflection code generated for CoopGameEditor in 5,4534847 seconds
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [1/6] CoopGame.init.gen.cpp
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [2/6] STrackerBot.gen.cpp
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [3/6] STrackerBot.cpp
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [4/6] UE4Editor-CoopGame-2779.lib
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2779.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2779.exp
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [5/6] UE4Editor-CoopGame-2779.dll
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:      Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2779.suppressed.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-2779.suppressed.exp
+[2020.07.27-08.57.47:780][790]CompilerResultsLog:   [6/6] CoopGameEditor.target
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Total time in Parallel executor: 4,16 seconds
+[2020.07.27-08.57.47:780][790]CompilerResultsLog: Total execution time: 10,63 seconds
+[2020.07.27-08.57.47:780][790]LogMainFrame: MainFrame: Module compiling took 10.741 seconds
+[2020.07.27-08.57.47:900][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.07.27-08.57.47:901][790]LogBlueprintActionDatabase: Requesting refresh due to module change: CoopGame (unloaded)
+[2020.07.27-08.57.47:951][790]LogClass: Could not find existing class STrackerBot in package /Script/CoopGame for HotReload, assuming new class
+[2020.07.27-08.57.47:951][790]LogClass: HitScanTrace HotReload.
+[2020.07.27-08.57.47:962][790]LogHotReload: Re-instancing STrackerBot after hot-reload.
+[2020.07.27-08.57.48:240][790]LogBlueprintActionDatabase: Requesting refresh due to module change: CoopGame (loaded)
+[2020.07.27-08.57.48:241][790]LogContentBrowser: Native class hierarchy updated for 'CoopGame' in 0.0003 seconds. Added 8 classes and 6 folders.
+[2020.07.27-08.57.48:245][790]Display: HotReload successful (6 functions remapped  1 scriptstructs remapped)
+[2020.07.27-08.57.48:348][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.07.27-08.57.48:349][790]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.07.27-08.57.48:363][790]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2738 classes and 662 folders.
+[2020.07.27-08.57.48:363][790]Display: HotReload took 11.3s.
+[2020.07.27-08.57.59:114][234]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.27-08.57.59:133][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.57.59:133][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.27-08.57.59:133][234]PIE: New page: PIE session: P_TestMap (27/7/2020 12:57:59)
+[2020.07.27-08.57.59:133][234]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_P_TestMap
+[2020.07.27-08.57.59:138][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004375s)
+[2020.07.27-08.57.59:138][234]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.57.59:139][234]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2020.07.27-08.57.59:139][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap (0.005656s)
+[2020.07.27-08.57.59:209][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.07.27-08.57.59:228][234]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.27-08.57.59:238][234]LogInit: FAudioDevice initialized.
+[2020.07.27-08.57.59:280][234]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.07.27-08.57.59:282][234]LogWorld: Bringing World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.57.59
+[2020.07.27-08.57.59:282][234]LogWorld: Bringing up level for play took: 0.001555
+[2020.07.27-08.57.59:296][234]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.57.59:296][234]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.07.27-08.57.59:296][234]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.57.59:296][234]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.27-08.57.59:296][234]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.27-08.57.59:296][234]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.07.27-08.57.59:296][234]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.57.59:296][234]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.07.27-08.57.59:297][234]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_P_TestMap 0,863
+[2020.07.27-08.57.59:301][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.27-08.57.59:306][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.27-08.57.59:337][234]LogNet: Browse: 127.0.0.1:17777//Game/Maps/P_TestMap
+[2020.07.27-08.57.59:337][234]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.57.59:337][234]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.07.27-08.57.59:337][234]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.27-08.57.59:337][234]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.07.27-08.57.59:338][234]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.57.59:338][234]LogNet: Game client on port 17777, rate 10000
+[2020.07.27-08.57.59:342][234]PIE: Play in editor start time for /Game/Maps/P_TestMap 0,908
+[2020.07.27-08.57.59:345][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.07.27-08.57.59:345][234]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63283
+[2020.07.27-08.57.59:345][234]LogHandshake: SendConnectChallenge. Timestamp: 0.333333, Cookie: 058168101183208058109220159238058013215040192252237036228148
+[2020.07.27-08.57.59:346][234]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:347][234]LogHandshake: SendChallengeResponse. Timestamp: 0.333333, Cookie: 058168101183208058109220159238058013215040192252237036228148
+[2020.07.27-08.57.59:355][235]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63283
+[2020.07.27-08.57.59:355][235]LogHandshake: SendChallengeAck. InCookie: 058168101183208058109220159238058013215040192252237036228148
+[2020.07.27-08.57.59:355][235]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63283
+[2020.07.27-08.57.59:356][235]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.27-08.57.59:356][235]LogNet: NotifyAcceptedConnection: Name: P_TestMap, TimeStamp: 07/27/20 10:57:59, [UNetConnection] RemoteAddr: 127.0.0.1:63283, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.57.59:356][235]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63283, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.57.59:356][235]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:357][235]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.27-08.57.59:382][236]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_P_TestMap.P_TestMap: Accepted
+[2020.07.27-08.57.59:382][236]LogNet: Remote platform little endian=1
+[2020.07.27-08.57.59:382][236]LogNet: This platform little endian=1
+[2020.07.27-08.57.59:383][236]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:401][237]LogNet: Login request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-495A472E48DD23A15C92F88817A4AB0E userId: NULL:DESKTOP-MQ854L0-495A472E48DD23A15C92F88817A4AB0E platform: NULL
+[2020.07.27-08.57.59:401][237]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:401][237]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_P_TestMap, Game: /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C)
+[2020.07.27-08.57.59:403][237]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_P_TestMap?game=/Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C
+[2020.07.27-08.57.59:442][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.07.27-08.57.59:445][237]LogAIModule: Creating AISystem for world P_TestMap
+[2020.07.27-08.57.59:445][237]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.27-08.57.59:446][237]LogWorld: Bringing World /Game/Maps/UEDPIE_2_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.07.27-10.57.59
+[2020.07.27-08.57.59:446][237]LogWorld: Bringing up level for play took: 0.001010
+[2020.07.27-08.57.59:447][237]LogLoad: Took 0.044510 seconds to LoadMap(/Game/Maps/UEDPIE_1_P_TestMap)
+[2020.07.27-08.57.59:465][238]LogNet: Client netspeed is 10000
+[2020.07.27-08.57.59:465][238]LogNet: Join request: /Game/Maps/P_TestMap?Name=DESKTOP-MQ854L0-495A472E48DD23A15C92F88817A4AB0E?SplitscreenCount=1
+[2020.07.27-08.57.59:465][238]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.57.59:467][238]LogNet: Join succeeded: DESKTOP-MQ854L0-495A
+[2020.07.27-08.57.59:467][238]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:477][239]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:487][240]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:494][241]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:504][242]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:511][243]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:512][243]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.57.59:519][244]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:528][245]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:536][246]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:544][247]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:554][248]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:561][249]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:569][250]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:578][251]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:586][252]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:587][252]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.27-08.57.59:595][253]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.57.59:604][254]PIE: Warning: BP_TrakerBot_8.MeshComp SM_TrackerBot has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2020.07.27-08.58.01:044][254]LogWindows: Error: === Critical error: ===
+[2020.07.27-08.58.01:044][254]LogWindows: Error: 
+[2020.07.27-08.58.01:044][254]LogWindows: Error: Fatal error!
+[2020.07.27-08.58.01:044][254]LogWindows: Error: 
+[2020.07.27-08.58.01:044][254]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000050
+[2020.07.27-08.58.01:044][254]LogWindows: Error: 
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff95ffc9101 UE4Editor-CoopGame-2779.dll!ASTrackerBot::GetNextPathPoint() [d:\github\unrealengine\coopgame\source\coopgame\private\strackerbot.cpp:43]
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff95ffc902c UE4Editor-CoopGame-2779.dll!ASTrackerBot::BeginPlay() [d:\github\unrealengine\coopgame\source\coopgame\private\strackerbot.cpp:33]
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918451af6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff91956cb99 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918ade6ec UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff92ee0bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff92f01df07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918479ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff9190a2284 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918941350 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff9189601de UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff91896781c UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff91896bc79 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff91896a4a3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff91896b949 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918e12978 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918e13dc1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff9103aea69 UE4Editor-OnlineSubsystemUtils.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918e419af UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff9183a7d7e UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff918c96ac3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff916fe02f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff9177fd396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.27-08.58.01:044][254]LogWindows: Error: [Callstack] 0x00007ff635f86bb1 UE4Editor.exe!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff635f9554c UE4Editor.exe!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff635f955ca UE4Editor.exe!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff635fa316c UE4Editor.exe!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff635fa5b8e UE4Editor.exe!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff9750e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: [Callstack] 0x00007ff97562ce51 ntdll.dll!UnknownFunction []
+[2020.07.27-08.58.01:045][254]LogWindows: Error: 
+[2020.07.27-08.58.01:120][254]LogExit: Executing StaticShutdownAfterError
+[2020.07.27-08.58.01:132][254]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.07.27-08.58.01:188][254]Log file closed, 07/27/20 10:58:01

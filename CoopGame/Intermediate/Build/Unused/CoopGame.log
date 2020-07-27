@@ -1,14 +1,37 @@
-﻿  Creating makefile for CoopGameEditor (ini files are newer than makefile)
+﻿  Cleaning CoopGameEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\UnrealEngine).
+  Creating makefile for CoopGameEditor (no existing makefile)
   Parsing headers for CoopGameEditor
-    Running UnrealHeaderTool "D:\Usuario\Documentos\UnrealEngineProj\CoopGame\CoopGame.uproject" "D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for CoopGameEditor in 4,6988405 seconds
+    Running UnrealHeaderTool "D:\GitHub\UnrealEngine\CoopGame\CoopGame.uproject" "D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\CoopGameEditor\Development\CoopGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CoopGameEditor in 4,6600606 seconds
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Private\Components\SHealthComponent.cpp(1): error : Expected SHealthComponent.h to be first header included.
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 8 processes...
-    [1/4] SExpBarrel.cpp
-    [2/4] UE4Editor-CoopGame.lib
-       Creating library D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.lib and object D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.exp
-    [3/4] UE4Editor-CoopGame.dll
-       Creating library D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.lib and object D:\Usuario\Documentos\UnrealEngineProj\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.exp
-    [4/4] CoopGameEditor.target
-  Total time in Parallel executor: 2,18 seconds
-  Total execution time: 8,38 seconds
+  Building 23 actions with 8 processes...
+    [1/23] Default.rc2
+    [2/23] SharedPCH.Engine.cpp
+    [3/23] SProjectileWeapon.cpp
+    [4/23] SExpBarrel.cpp
+    [5/23] CoopGame.cpp
+    [6/23] SExplosiveBarrel.cpp
+    [7/23] STrackerBot.cpp
+    [8/23] SWeapon.cpp
+    [9/23] SCharacter.cpp
+    [10/23] SHealthComponent.cpp
+    [11/23] CoopGame.init.gen.cpp
+    [12/23] SCharacter.gen.cpp
+    [13/23] SExpBarrel.gen.cpp
+    [14/23] SHealthComponent.gen.cpp
+    [15/23] SExplosiveBarrel.gen.cpp
+    [16/23] SProjectileWeapon.gen.cpp
+    [17/23] STrackerBot.gen.cpp
+    [18/23] SWeapon.gen.cpp
+    [19/23] CoopGameGameModeBase.gen.cpp
+    [20/23] CoopGameGameModeBase.cpp
+    [21/23] UE4Editor-CoopGame.lib
+       Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.exp
+    [22/23] UE4Editor-CoopGame.dll
+       Creating library D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.lib and object D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.exp
+    [23/23] CoopGameEditor.target
+  Total time in Parallel executor: 26,47 seconds
+  Total execution time: 32,89 seconds
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.22\Engine\Build\BatchFiles\Rebuild.bat" CoopGameEditor Win64 Development -Project="D:\GitHub\UnrealEngine\CoopGame\CoopGame.uproject" -WaitMutex -FromMsBuild" exited with code -1.
