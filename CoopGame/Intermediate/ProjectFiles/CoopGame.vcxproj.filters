@@ -76,6 +76,9 @@
     <ClInclude Include="..\..\Source\CoopGame\Public\STrackerBot.h">
       <Filter>Source\CoopGame\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SPickupActor.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\CoopGame\Private\SProjectileWeapon.cpp">
@@ -88,6 +91,9 @@
       <Filter>Source\CoopGame\Private\Challenges</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\CoopGame\Private\STrackerBot.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SPickupActor.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
   </ItemGroup>
