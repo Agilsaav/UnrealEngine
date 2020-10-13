@@ -6,6 +6,10 @@
 #include "GameFramework/Pawn.h"
 #include "STrackerBot.generated.h"
 
+class USHealthComponent;
+class USphereComponent;
+class USoundCue;
+
 UCLASS()
 class COOPGAME_API ASTrackerBot : public APawn
 {
@@ -22,6 +26,20 @@ protected:
 	UPROPERTY(VisibleDefaultsOnly, Category = "Components")
 	UStaticMeshComponent* MeshComp;
 
+	UPROPERTY(VisibleDefaultsOnly, Category = "Components")
+	USHealthComponent* HealthComp;
+
+	UPROPERTY(VisibleDefaultsOnly, Category = "Components")
+	USphereComponent* SphereComp;
+
+	//Handle Take Damage
+	UFUNCTION()
+	void HandleTakeDamage(USHealthComponent* OwningHealthComp, float Health, float HealthDelta, const class UDamageType* DamageType,
+		class AController* InstigatedBy, AActor* DamageCauser);
+
+	//Self Destruct function:
+	void SelfDestruct();
+
 	FVector GetNextPathPoint();
 
 	//Next Path Point:
@@ -36,8 +54,44 @@ protected:
 	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
 	bool bUseVelocityChange;
 
+	//Dynamic material to pulse on damage:
+	UMaterialInstanceDynamic* MatInst;
+
+	//Explosion Particle Effect:
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	UParticleSystem* ExplosionEffect;
+
+	//Bool Exploded
+	bool bExploded;
+
+	//Explosion Radius & Damage:
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	float ExplosionRadius;
+
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	float ExplosionDamage;
+
+	//Timer Handle for self explosion & function to damage itself:
+	FTimerHandle TimerHandle_SelfDamage;
+
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	float SelfDamageInterval;
+
+	void DamageSelf();
+
+	bool bStartedSelfDestruction;
+
+	//Sounds:
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	USoundCue* SelfDestructSound;
+
+	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
+	USoundCue* ExplodeSound;
 
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	//Overlap Function:
+	virtual void NotifyActorBeginOverlap(AActor* OtherActor) override;
 };
