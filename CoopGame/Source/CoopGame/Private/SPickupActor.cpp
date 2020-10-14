@@ -3,6 +3,7 @@
 #include "Components/DecalComponent.h"
 #include "TimerManager.h"
 #include "SPowerupActor.h"
+#include "SCharacter.h"
 
 // Sets default values
 ASPickupActor::ASPickupActor()
@@ -17,6 +18,8 @@ ASPickupActor::ASPickupActor()
 	DecalComp->SetupAttachment(RootComponent);
 
 	CooldownDuration = 10.0f;
+
+	SetReplicates(true);
 }
 
 // Called when the game starts or when spawned
@@ -24,7 +27,11 @@ void ASPickupActor::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	Respawn();
+	//Only Spawn on the server:
+	if (Role == ROLE_Authority)
+	{
+		Respawn();
+	}
 }
 
 void ASPickupActor::Respawn()
@@ -45,14 +52,19 @@ void ASPickupActor::NotifyActorBeginOverlap(AActor * OtherActor)
 {
 	Super::NotifyActorBeginOverlap(OtherActor);
 
-	if (PowerupInstance)
+	ASCharacter* PlayerPawn = Cast<ASCharacter>(OtherActor); //Only interacts with players!
+	if (PlayerPawn)
 	{
-		PowerupInstance->ActivatePowerup();
-		PowerupInstance = nullptr;
+		if (Role == ROLE_Authority && PowerupInstance)
+		{
+			PowerupInstance->ActivatePowerup(OtherActor);
+			PowerupInstance = nullptr;
 
-		//Set Timer to respawn:
-		GetWorldTimerManager().SetTimer(TimerHandle_RespawnTimer, this, &ASPickupActor::Respawn, CooldownDuration);
+			//Set Timer to respawn:
+			GetWorldTimerManager().SetTimer(TimerHandle_RespawnTimer, this, &ASPickupActor::Respawn, CooldownDuration);
+		}
 	}
+
 }
 
 
