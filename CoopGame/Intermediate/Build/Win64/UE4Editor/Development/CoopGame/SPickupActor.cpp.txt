@@ -7,3 +7,5 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/DecalComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalComponent.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Public\SPowerupActor.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SPowerupActor.generated.h
