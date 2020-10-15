@@ -1,0 +1,10 @@
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Public\Components\SHealthComponent.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SHealthComponent.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Public\SGameMode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\GitHub\UnrealEngine\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SGameMode.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineUtils.h

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CoopGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{353A77F7-E5D5-47B0-A563-4EE61530D58B}</UniqueIdentifier>
+      <UniqueIdentifier>{FEFA6D04-21B9-4EE3-9A6D-912DF76C39B8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{0226C52C-200E-4207-AB8A-4FD7015F6752}</UniqueIdentifier>
+      <UniqueIdentifier>{6AF38739-8C25-46BE-B44E-BE5C82DE5FF5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CoopGame">
-      <UniqueIdentifier>{1013DFF8-69D6-42A8-9545-92DD9E584E62}</UniqueIdentifier>
+      <UniqueIdentifier>{5A08AC58-8665-48D8-AFE4-99D76F98627D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
       <Filter>Source\CoopGame</Filter>
@@ -38,62 +38,22 @@
     <ClInclude Include="..\..\Source\CoopGame\CoopGame.h">
       <Filter>Source\CoopGame</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\CoopGame\CoopGameGameModeBase.cpp">
-      <Filter>Source\CoopGame</Filter>
+    <Filter Include="Source\CoopGame\Challenges">
+      <UniqueIdentifier>{C2CF64E7-7D50-4830-820D-B328D0CC1F14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CoopGame\Challenges\SExplosiveBarrel.cpp">
+      <Filter>Source\CoopGame\Challenges</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\CoopGame\CoopGameGameModeBase.h">
-      <Filter>Source\CoopGame</Filter>
+    <ClInclude Include="..\..\Source\CoopGame\Challenges\SExplosiveBarrel.h">
+      <Filter>Source\CoopGame\Challenges</Filter>
     </ClInclude>
     <Filter Include="Source\CoopGame\Private">
-      <UniqueIdentifier>{071FA69F-C1FA-40DA-8F2D-DAFE1870A290}</UniqueIdentifier>
+      <UniqueIdentifier>{C87A10F8-F583-42E8-B0F8-98F36C70A9C8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CoopGame\Private\SCharacter.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\CoopGame\Private\SWeapon.cpp">
-      <Filter>Source\CoopGame\Private</Filter>
-    </ClCompile>
-    <Filter Include="Source\CoopGame\Public">
-      <UniqueIdentifier>{F6320791-5D2B-4CCD-8E52-AA66591F18B0}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Source\CoopGame\Public\SCharacter.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\SWeapon.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\CoopGame\Public\SProjectileWeapon.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\Components\SHealthComponent.h">
-      <Filter>Source\CoopGame\Public\Components</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\Challenges\SExpBarrel.h">
-      <Filter>Source\CoopGame\Public\Challenges</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\STrackerBot.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\SPickupActor.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\CoopGame\Public\SPowerupActor.h">
-      <Filter>Source\CoopGame\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\CoopGame\Private\SProjectileWeapon.cpp">
-      <Filter>Source\CoopGame\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\CoopGame\Private\Components\SHealthComponent.cpp">
-      <Filter>Source\CoopGame\Private\Components</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\CoopGame\Private\Challenges\SExpBarrel.cpp">
-      <Filter>Source\CoopGame\Private\Challenges</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\CoopGame\Private\STrackerBot.cpp">
+    <ClCompile Include="..\..\Source\CoopGame\Private\SGameMode.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\CoopGame\Private\SPickupActor.cpp">
@@ -102,19 +62,62 @@
     <ClCompile Include="..\..\Source\CoopGame\Private\SPowerupActor.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="Source\CoopGame\Public\Components">
-      <UniqueIdentifier>{719f2337-da74-4cbb-a174-2c8027c258d8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\CoopGame\Private\Components">
-      <UniqueIdentifier>{27d5098f-abd5-4dfc-ad54-db78c04b1dd0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source\CoopGame\Public\Challenges">
-      <UniqueIdentifier>{7eb10a43-6908-40d2-bd98-190e068b2a52}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SProjectileWeapon.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\STrackerBot.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SWeapon.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\CoopGame\Private\Challenges">
-      <UniqueIdentifier>{20eba42b-8c9f-4fc7-b55d-f0be2f19805e}</UniqueIdentifier>
+      <UniqueIdentifier>{CA9A4F82-FA08-455C-8DEC-E1BEFFF0F696}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\CoopGame\Private\Challenges\SExpBarrel.cpp">
+      <Filter>Source\CoopGame\Private\Challenges</Filter>
+    </ClCompile>
+    <Filter Include="Source\CoopGame\Private\Components">
+      <UniqueIdentifier>{8FEC86CA-4C47-453B-8D40-A5FA2F7E7FA1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CoopGame\Private\Components\SHealthComponent.cpp">
+      <Filter>Source\CoopGame\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\CoopGame\Public">
+      <UniqueIdentifier>{AC5FD3F9-021B-47AD-8F94-695A428D70BE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SCharacter.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SGameMode.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SPickupActor.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SPowerupActor.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SProjectileWeapon.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\STrackerBot.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SWeapon.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\CoopGame\Public\Challenges">
+      <UniqueIdentifier>{E31EF47E-CE99-4BD5-B388-9DEAD8E86AAD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CoopGame\Public\Challenges\SExpBarrel.h">
+      <Filter>Source\CoopGame\Public\Challenges</Filter>
+    </ClInclude>
+    <Filter Include="Source\CoopGame\Public\Components">
+      <UniqueIdentifier>{9BB0CF1D-BE6A-4D22-8FE0-24E92BF57171}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CoopGame\Public\Components\SHealthComponent.h">
+      <Filter>Source\CoopGame\Public\Components</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
