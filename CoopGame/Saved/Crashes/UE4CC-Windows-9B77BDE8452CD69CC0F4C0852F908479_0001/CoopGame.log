@@ -1,0 +1,1335 @@
+﻿Log file open, 10/16/20 11:46:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CoopGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.359252
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Blackmaxic -epicuserid=6612d62754d34bd8b7fbed12a18e7a5a -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.16-09.46.16:509][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.16-09.46.16:509][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.16-09.46.16:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:509][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.16-09.46.16:509][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.10.16-09.46.16:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.16-09.46.16:510][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:510][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:513][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.16-09.46.16:513][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.16-09.46.16:514][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.16-09.46.16:514][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.16-09.46.16:514][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.16-09.46.16:525][  0]LogHAL: Display: Platform has ~ 16 GB [17138606080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.10.16-09.46.16:525][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.16-09.46.16:525][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.16-09.46.16:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.16-09.46.16:526][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/UnrealEngine/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.10.16-09.46.16:526][  0]LogInit: Computer: DESKTOP-MQ854L0
+[2020.10.16-09.46.16:526][  0]LogInit: User: alber
+[2020.10.16-09.46.16:526][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.16-09.46.16:526][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.16-09.46.16:526][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.10.16-09.46.16:526][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.16-09.46.16:526][  0]LogMemory: Process Physical Memory: 97.62 MB used, 97.63 MB peak
+[2020.10.16-09.46.16:526][  0]LogMemory: Process Virtual Memory: 95.89 MB used, 95.89 MB peak
+[2020.10.16-09.46.16:526][  0]LogMemory: Physical Memory: 8408.11 MB used,  7936.54 MB free, 16344.65 MB total
+[2020.10.16-09.46.16:526][  0]LogMemory: Virtual Memory: 4649.22 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.10.16-09.46.16:544][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.10.16-09.46.16:544][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.10.16-09.46.16:544][  0]LogInit: Using OS detected locale (es-ES).
+[2020.10.16-09.46.16:683][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.16-09.46.16:704][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.16-09.46.16:704][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.16-09.46.16:828][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.16-09.46.16:896][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.10.16-09.46.16:896][  0]LogD3D11RHI:       4043/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.16-09.46.16:899][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.16-09.46.16:899][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.16-09.46.16:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.16-09.46.16:905][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.16-09.46.16:905][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.16-09.46.16:905][  0]LogWindows: EnumDisplayDevices:
+[2020.10.16-09.46.16:905][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.10.16-09.46.16:905][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.10.16-09.46.16:906][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.10.16-09.46.16:906][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.10.16-09.46.16:906][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.16-09.46.16:906][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.10.16-09.46.16:906][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.10.16-09.46.16:906][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.10.16-09.46.16:906][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.10.16-09.46.16:950][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.16-09.46.16:956][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.16-09.46.16:956][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.16-09.46.16:956][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.16-09.46.16:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.16-09.46.17:236][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.16-09.46.17:250][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.16-09.46.17:262][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.16-09.46.17:274][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.16-09.46.17:285][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.16-09.46.17:299][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.16-09.46.17:310][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.16-09.46.17:321][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.16-09.46.17:326][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.16-09.46.17:389][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.16-09.46.17:391][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.16-09.46.17:435][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.16-09.46.17:435][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.16-09.46.17:454][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.16-09.46.17:454][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.16-09.46.17:464][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.16-09.46.17:474][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.16-09.46.17:484][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.16-09.46.17:494][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.16-09.46.17:528][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.16-09.46.17:528][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.16-09.46.17:528][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.16-09.46.17:536][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.16-09.46.17:576][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/GitHub/UnrealEngine/CoopGame/Intermediate/Shaders/WorkingDirectory/7660/).
+[2020.10.16-09.46.17:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alber/AppData/Local/Temp/UnrealShaderWorkingDir/FBEC4BA840F9CD9023534AB0D3D28699/'.
+[2020.10.16-09.46.17:578][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.16-09.46.17:578][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.16-09.46.17:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.16-09.46.17:998][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.16-09.46.18:039][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.16-09.46.18:040][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.10.16-09.46.18:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/UnrealEngine/CoopGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.16-09.46.18:040][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.16-09.46.18:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/UnrealEngine/CoopGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.16-09.46.18:040][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.16-09.46.18:050][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.16-09.46.18:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.16-09.46.18:050][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.16-09.46.18:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.16-09.46.18:062][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.16-09.46.18:062][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.16-09.46.18:082][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.16-09.46.18:083][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.16-09.46.18:083][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.16-09.46.18:159][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.10.16-09.46.18:436][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.16-09.46.18:482][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.16-09.46.18:482][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.16-09.46.18:482][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.16-09.46.18:482][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.16-09.46.18:482][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.16-09.46.18:552][  0]LogNetVersion: CoopGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3513699854)
+[2020.10.16-09.46.18:863][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.023476 seconds
+[2020.10.16-09.46.18:868][  0]LogUObjectArray: 41958 objects as part of root set at end of initial load.
+[2020.10.16-09.46.18:868][  0]LogUObjectAllocator: 7284248 out of 0 bytes used by permanent object pool.
+[2020.10.16-09.46.18:868][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.16-09.46.19:515][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.16-09.46.19:527][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.16-09.46.19:624][  0]SourceControl: Source control is disabled
+[2020.10.16-09.46.19:624][  0]SourceControl: Source control is disabled
+[2020.10.16-09.46.19:625][  0]SourceControl: Source control is disabled
+[2020.10.16-09.46.19:626][  0]SourceControl: Source control is disabled
+[2020.10.16-09.46.19:685][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.16-09.46.19:753][  0]LogOcInput: OculusInput pre-init called
+[2020.10.16-09.46.20:282][  0]LogEngine: Initializing Engine...
+[2020.10.16-09.46.20:283][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.16-09.46.20:449][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.16-09.46.20:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.16-09.46.20:494][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.46.20:507][  0]LogInit: FAudioDevice initialized.
+[2020.10.16-09.46.20:508][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.16-09.46.20:542][  0]LogDerivedDataCache: Saved boot cache 0.03s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.16-09.46.20:549][  0]LogInit: Texture streaming: Enabled
+[2020.10.16-09.46.20:563][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.16-09.46.20:579][  0]LogInit: Transaction tracking system initialized
+[2020.10.16-09.46.20:599][  0]BlueprintLog: New page: Editor Load
+[2020.10.16-09.46.20:663][  0]LocalizationService: Localization service is disabled
+[2020.10.16-09.46.20:930][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/' took 0.01s
+[2020.10.16-09.46.20:930][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.16-09.46.20:930][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.16-09.46.21:066][  0]SourceControl: Source control is disabled
+[2020.10.16-09.46.21:066][  0]Cmd: MAP LOAD FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.16-09.46.21:067][  0]LightingResults: New page: Lighting Build
+[2020.10.16-09.46.21:069][  0]MapCheck: New page: Map Check
+[2020.10.16-09.46.21:069][  0]LightingResults: New page: Lighting Build
+[2020.10.16-09.46.21:090][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.10.16-09.46.21:456][  0]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.46.21:462][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.16-09.46.21:483][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.16-09.46.21:483][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.16-09.46.21:483][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,077ms to complete.
+[2020.10.16-09.46.21:483][  0]LogFileHelpers: Loading map 'P_TestMap' took 0.417
+[2020.10.16-09.46.21:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.46.21:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.46.21:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.46.21:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.46.21:586][  0]LogCollectionManager: Loaded 0 collections in 0.001295 seconds
+[2020.10.16-09.46.21:612][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Saved/Collections/' took 0.01s
+[2020.10.16-09.46.21:612][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/Developers/alber/Collections/' took 0.01s
+[2020.10.16-09.46.21:612][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngine/CoopGame/Content/Collections/' took 0.00s
+[2020.10.16-09.46.21:612][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.16-09.46.21:619][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2748 classes and 662 folders.
+[2020.10.16-09.46.21:625][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.16-09.46.21:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.16-09.46.21:663][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.16-09.46.21:668][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.16-09.46.21:725][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.16-09.46.21:726][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.16-09.46.21:730][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.16-09.46.21:778][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2020.10.16-09.46.21:886][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.16-09.46.21:886][  0]LogLoad: (Engine Initialization) Total time: 7.09 seconds
+[2020.10.16-09.46.21:886][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.16-09.46.21:918][  0]LogAssetRegistry: Asset discovery search completed in 3.7812 seconds
+[2020.10.16-09.46.21:920][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.16-09.46.21:920][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.10.16-09.46.21:921][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.16-09.46.21:949][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.16-09.46.23:244][  4]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.16-09.46.34:265][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.16-09.46.36:452][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2020.10.16-09.46.36:644][702]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.10.16-09.46.37:263][702]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.16-09.46.37:314][703]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.16-09.46.38:999][902]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2020.10.16-09.47.16:877][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.47.16:908][566]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameModeF284F0D547D8DBDB1AB113B2E351A0BB.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.47.18:200][720]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.47.18:325][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.16-09.48.04:742][ 77]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.48.04:861][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.10.16-09.48.04:876][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.48.04:901][ 77]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameModeF62BA6264155A7AB77156CAB10C67A1D.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.48.12:338][847]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.48.12:352][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.48.12:352][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.48.12:352][847]PIE: New page: PIE session: P_TestMap (16/10/2020 13:48:12)
+[2020.10.16-09.48.12:364][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.48.12:367][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2020.10.16-09.48.12:368][847]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.48.12:368][847]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2020.10.16-09.48.12:368][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.004173s)
+[2020.10.16-09.48.12:392][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.16-09.48.12:405][847]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.48.12:413][847]LogInit: FAudioDevice initialized.
+[2020.10.16-09.48.12:449][847]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.48.12:450][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.48.12
+[2020.10.16-09.48.12:451][847]LogWorld: Bringing up level for play took: 0.001097
+[2020.10.16-09.48.12:467][847]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.10.16-09.48.12:470][847]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.10.16-09.48.12:471][847]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.10.16-09.48.12:473][847]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.48.12:473][847]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0,261
+[2020.10.16-09.48.12:473][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.48.13:339][921]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.48.14:339][ 41]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.48.15:314][158]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.16:315][278]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.16:456][295]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.16:457][295]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.48.16:482][298]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.16:482][298]LogTemp: Health 80.0 of BP_TrakerBot_C_1
+[2020.10.16-09.48.16:548][306]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.16:548][306]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.48.16:648][318]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.16:648][318]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.48.16:723][327]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.16:723][327]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.48.16:848][342]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.16:848][342]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.48.16:907][349]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.16:907][349]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.48.16:907][349]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.16:907][349]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.16:974][357]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.16:974][357]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.48.17:225][387]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.17:225][387]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.48.17:476][417]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.17:476][417]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.48.17:477][417]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.17:477][417]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.18:343][521]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.48.18:343][521]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.48.19:342][641]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.48.20:916][830]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.20:917][830]LogTemp: Health 80.0 of BP_TrakerBot_C_2
+[2020.10.16-09.48.21:208][865]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.21:208][865]LogTemp: Health 60.0 of BP_TrakerBot_C_2
+[2020.10.16-09.48.21:309][877]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.21:309][877]LogTemp: Health 40.0 of BP_TrakerBot_C_2
+[2020.10.16-09.48.21:408][889]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.21:408][889]LogTemp: Health 20.0 of BP_TrakerBot_C_2
+[2020.10.16-09.48.21:508][901]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.21:508][901]LogTemp: Health 0.0 of BP_TrakerBot_C_2
+[2020.10.16-09.48.21:509][901]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_2.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.21:509][901]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_2.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.22:342][  1]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.48.22:575][ 29]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.22:576][ 29]LogTemp: Health 80.0 of BP_TrakerBot_C_3
+[2020.10.16-09.48.22:775][ 53]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.22:775][ 53]LogTemp: Health 60.0 of BP_TrakerBot_C_3
+[2020.10.16-09.48.23:176][101]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.23:176][101]LogTemp: Health 40.0 of BP_TrakerBot_C_3
+[2020.10.16-09.48.23:275][113]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.23:275][113]LogTemp: Health 20.0 of BP_TrakerBot_C_3
+[2020.10.16-09.48.23:375][125]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.23:375][125]LogTemp: Health 0.0 of BP_TrakerBot_C_3
+[2020.10.16-09.48.23:375][125]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_3.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.23:375][125]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_3.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.24:301][236]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.24:301][236]LogTemp: Health 80.0 of BP_TrakerBot_C_4
+[2020.10.16-09.48.24:543][265]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.24:543][265]LogTemp: Health 60.0 of BP_TrakerBot_C_4
+[2020.10.16-09.48.24:792][295]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.24:792][295]LogTemp: Health 40.0 of BP_TrakerBot_C_4
+[2020.10.16-09.48.25:042][325]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.25:043][325]LogTemp: Health 20.0 of BP_TrakerBot_C_4
+[2020.10.16-09.48.25:293][355]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.25:293][355]LogTemp: Health 0.0 of BP_TrakerBot_C_4
+[2020.10.16-09.48.25:293][355]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_4.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.25:293][355]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_4.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.25:293][355]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.25:334][360]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.25:334][360]LogTemp: Health 80.0 of BP_TrakerBot_C_5
+[2020.10.16-09.48.25:834][420]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.25:834][420]LogTemp: Health 60.0 of BP_TrakerBot_C_5
+[2020.10.16-09.48.30:876][ 25]LogTemp: Health Changed: 40.0 (+20.0)
+[2020.10.16-09.48.31:343][ 81]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.48.31:343][ 81]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.48.31:376][ 85]LogTemp: Health Changed: 60.0 (+20.0)
+[2020.10.16-09.48.31:877][145]LogTemp: Health Changed: 80.0 (+20.0)
+[2020.10.16-09.48.32:343][201]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.48.32:376][205]LogTemp: Health Changed: 100.0 (+20.0)
+[2020.10.16-09.48.34:160][419]LogTemp: Health Changed: 80.0
+[2020.10.16-09.48.34:160][419]LogTemp: Health 80.0 of BP_TrakerBot_C_6
+[2020.10.16-09.48.34:251][430]LogTemp: Health Changed: 60.0
+[2020.10.16-09.48.34:251][430]LogTemp: Health 60.0 of BP_TrakerBot_C_6
+[2020.10.16-09.48.34:352][442]LogTemp: Health Changed: 40.0
+[2020.10.16-09.48.34:352][442]LogTemp: Health 40.0 of BP_TrakerBot_C_6
+[2020.10.16-09.48.34:452][454]LogTemp: Health Changed: 20.0
+[2020.10.16-09.48.34:452][454]LogTemp: Health 20.0 of BP_TrakerBot_C_6
+[2020.10.16-09.48.34:551][466]LogTemp: Health Changed: 0.0
+[2020.10.16-09.48.34:551][466]LogTemp: Health 0.0 of BP_TrakerBot_C_6
+[2020.10.16-09.48.34:552][466]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_6.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.34:552][466]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_6.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.48.35:369][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.48.35:370][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.48.35:397][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.48.35:397][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.48.35:429][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.48.35:449][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.16-09.48.35:455][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.48.35:482][565]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.10.16-09.48.37:072][751]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.48.37:077][751]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.49.54:860][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.49.54:887][111]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameModeDE1A6C1F4EA376D6ACC14E928A91717E.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.49.56:090][254]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.49.56:247][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.16-09.49.57:766][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.49.57:780][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.49.57:780][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.49.57:780][433]PIE: New page: PIE session: P_TestMap (16/10/2020 13:49:57)
+[2020.10.16-09.49.57:781][433]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.49.57:784][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003101s)
+[2020.10.16-09.49.57:784][433]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.49.57:784][433]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2020.10.16-09.49.57:784][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003779s)
+[2020.10.16-09.49.57:813][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.16-09.49.57:829][433]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.49.57:837][433]LogInit: FAudioDevice initialized.
+[2020.10.16-09.49.57:866][433]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.49.57:867][433]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.49.57
+[2020.10.16-09.49.57:867][433]LogWorld: Bringing up level for play took: 0.001041
+[2020.10.16-09.49.57:881][433]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.49.57:881][433]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0,332
+[2020.10.16-09.49.57:881][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.49.58:769][537]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.49.59:768][657]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.50.00:327][724]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.00:327][724]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.00:419][735]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.00:419][735]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.00:518][747]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.00:518][747]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.00:618][759]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.00:618][759]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.00:719][771]LogTemp: Health Changed: 0.0
+[2020.10.16-09.50.00:719][771]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.00:719][771]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.00:719][771]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.02:753][ 15]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.02:753][ 15]LogTemp: Health 80.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.02:994][ 44]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.02:994][ 44]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.03:244][ 74]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.03:244][ 74]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.03:494][104]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.03:494][104]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.03:745][134]LogTemp: Health Changed: 0.0
+[2020.10.16-09.50.03:745][134]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.03:745][134]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.03:745][134]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.03:769][137]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.50.03:769][137]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.50.04:769][257]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.50.07:771][617]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.50.07:946][638]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.07:946][638]LogTemp: Health 80.0 of BP_TrakerBot_C_3
+[2020.10.16-09.50.08:046][650]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.08:046][650]LogTemp: Health 60.0 of BP_TrakerBot_C_3
+[2020.10.16-09.50.09:079][774]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.09:079][774]LogTemp: Health 80.0 of BP_TrakerBot_C_2
+[2020.10.16-09.50.09:179][786]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.09:179][786]LogTemp: Health 80.0 of BP_TrakerBot_C_4
+[2020.10.16-09.50.09:279][798]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.09:279][798]LogTemp: Health 60.0 of BP_TrakerBot_C_4
+[2020.10.16-09.50.09:380][810]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.09:380][810]LogTemp: Health 40.0 of BP_TrakerBot_C_4
+[2020.10.16-09.50.09:479][822]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.09:479][822]LogTemp: Health 20.0 of BP_TrakerBot_C_4
+[2020.10.16-09.50.09:580][834]LogTemp: Health Changed: 0.0
+[2020.10.16-09.50.09:580][834]LogTemp: Health 0.0 of BP_TrakerBot_C_4
+[2020.10.16-09.50.09:580][834]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_4.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.09:580][834]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_4.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.09:580][834]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.09:580][834]LogTemp: Health 40.0 of BP_TrakerBot_C_2
+[2020.10.16-09.50.10:596][956]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.10:596][956]LogTemp: Health 80.0 of BP_TrakerBot_C_5
+[2020.10.16-09.50.10:696][968]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.10:696][968]LogTemp: Health 60.0 of BP_TrakerBot_C_5
+[2020.10.16-09.50.11:097][ 16]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.11:097][ 16]LogTemp: Health 40.0 of BP_TrakerBot_C_5
+[2020.10.16-09.50.11:396][ 52]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.11:396][ 52]LogTemp: Health 20.0 of BP_TrakerBot_C_5
+[2020.10.16-09.50.12:064][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.12:064][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.50.12:091][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.50.12:091][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.12:117][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.50.12:122][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.10.16-09.50.12:128][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.50.12:163][134]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.10.16-09.50.13:327][271]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.50.13:333][271]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.50.13:944][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.16-09.50.23:069][726]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.16-09.50.45:294][939]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.50.45:453][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.16-09.50.45:469][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.50.45:493][939]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode09B920AF45B9B3308CBEFCB94A09B8BA.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.50.47:459][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.50.47:474][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.47:474][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.50.47:474][170]PIE: New page: PIE session: P_TestMap (16/10/2020 13:50:47)
+[2020.10.16-09.50.47:474][170]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.50.47:477][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2020.10.16-09.50.47:478][170]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.50.47:478][170]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2020.10.16-09.50.47:478][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.004054s)
+[2020.10.16-09.50.47:507][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.16-09.50.47:522][170]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.50.47:531][170]LogInit: FAudioDevice initialized.
+[2020.10.16-09.50.47:556][170]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.50.47:557][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.50.47
+[2020.10.16-09.50.47:558][170]LogWorld: Bringing up level for play took: 0.001561
+[2020.10.16-09.50.47:573][170]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.50.47:573][170]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0,639
+[2020.10.16-09.50.47:573][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.48:467][275]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.50.49:467][395]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.50.50:127][474]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.50:127][474]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.50:219][485]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.50:219][485]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.50:318][497]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.50:319][497]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.50:418][509]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.50:418][509]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.50:519][521]LogTemp: Health Changed: 0.0
+[2020.10.16-09.50.50:519][521]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.50.50:519][521]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.50:519][521]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.51:994][698]LogTemp: Health Changed: 80.0
+[2020.10.16-09.50.51:994][698]LogTemp: Health 80.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.52:236][727]LogTemp: Health Changed: 60.0
+[2020.10.16-09.50.52:236][727]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.52:486][757]LogTemp: Health Changed: 40.0
+[2020.10.16-09.50.52:486][757]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.52:736][787]LogTemp: Health Changed: 20.0
+[2020.10.16-09.50.52:736][787]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.52:986][817]LogTemp: Health Changed: 0.0
+[2020.10.16-09.50.52:986][817]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.50.52:986][817]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.52:986][817]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.50.53:460][874]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.50.53:460][874]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.50.54:461][994]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.50.54:461][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.54:461][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.50.54:489][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.50.54:489][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.50.54:520][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.50.54:524][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.16-09.50.54:530][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.50.54:564][996]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.10.16-09.50.56:377][211]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.50.56:381][211]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.51.13:546][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.16-09.51.26:928][305]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.51.26:944][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.26:944][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.51.26:945][305]PIE: New page: PIE session: P_TestMap (16/10/2020 13:51:26)
+[2020.10.16-09.51.26:945][305]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.51.26:948][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2020.10.16-09.51.26:948][305]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.51.26:949][305]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2020.10.16-09.51.26:949][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003907s)
+[2020.10.16-09.51.26:977][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.16-09.51.26:991][305]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.51.27:000][305]LogInit: FAudioDevice initialized.
+[2020.10.16-09.51.27:027][305]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.51.27:029][305]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.51.27
+[2020.10.16-09.51.27:029][305]LogWorld: Bringing up level for play took: 0.000996
+[2020.10.16-09.51.27:043][305]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.51.27:043][305]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0,83
+[2020.10.16-09.51.27:043][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.27:935][410]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.51.28:935][530]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.51.30:102][670]LogTemp: Health Changed: 80.0
+[2020.10.16-09.51.30:102][670]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.30:194][681]LogTemp: Health Changed: 60.0
+[2020.10.16-09.51.30:194][681]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.30:294][693]LogTemp: Health Changed: 40.0
+[2020.10.16-09.51.30:294][693]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.30:394][705]LogTemp: Health Changed: 20.0
+[2020.10.16-09.51.30:394][705]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.30:494][717]LogTemp: Health Changed: 0.0
+[2020.10.16-09.51.30:494][717]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.30:494][717]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.30:494][717]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.31:335][818]LogTemp: Health Changed: 80.0
+[2020.10.16-09.51.31:335][818]LogTemp: Health 80.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.31:428][829]LogTemp: Health Changed: 60.0
+[2020.10.16-09.51.31:428][829]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.31:528][841]LogTemp: Health Changed: 40.0
+[2020.10.16-09.51.31:528][841]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.31:627][853]LogTemp: Health Changed: 20.0
+[2020.10.16-09.51.31:627][853]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.31:727][865]LogTemp: Health Changed: 0.0
+[2020.10.16-09.51.31:727][865]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.31:727][865]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.31:727][865]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.31:935][890]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.51.31:935][890]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.51.32:453][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.32:453][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.51.32:479][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.51.32:479][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.32:508][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.51.32:512][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.10.16-09.51.32:519][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.51.32:559][954]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.10.16-09.51.33:641][ 79]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.51.33:648][ 79]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.51.35:046][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.51.35:072][246]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameModeDAB4BA054EF675A537C742AA25220060.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.51.47:836][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.51.47:866][774]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode5724EB3A4C03EB1B7ACF0F8813C1F821.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.51.49:137][926]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.51.49:282][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.16-09.51.50:755][100]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.51.50:771][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.50:771][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.51.50:771][100]PIE: New page: PIE session: P_TestMap (16/10/2020 13:51:50)
+[2020.10.16-09.51.50:771][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.51.50:774][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003179s)
+[2020.10.16-09.51.50:774][100]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.51.50:775][100]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2020.10.16-09.51.50:775][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003913s)
+[2020.10.16-09.51.50:803][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.16-09.51.50:817][100]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.51.50:825][100]LogInit: FAudioDevice initialized.
+[2020.10.16-09.51.50:853][100]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.51.50:855][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.51.50
+[2020.10.16-09.51.50:855][100]LogWorld: Bringing up level for play took: 0.000967
+[2020.10.16-09.51.50:869][100]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.51.50:869][100]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0,656
+[2020.10.16-09.51.50:869][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.51:762][205]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.51.52:763][325]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.51.54:638][550]LogTemp: Health Changed: 80.0
+[2020.10.16-09.51.54:638][550]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.54:730][561]LogTemp: Health Changed: 60.0
+[2020.10.16-09.51.54:730][561]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.54:831][573]LogTemp: Health Changed: 40.0
+[2020.10.16-09.51.54:831][573]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.54:931][585]LogTemp: Health Changed: 20.0
+[2020.10.16-09.51.54:931][585]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.55:031][597]LogTemp: Health Changed: 0.0
+[2020.10.16-09.51.55:031][597]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.51.55:031][597]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.55:031][597]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.56:105][726]LogTemp: Health Changed: 80.0
+[2020.10.16-09.51.56:105][726]LogTemp: Health 80.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.56:206][738]LogTemp: Health Changed: 60.0
+[2020.10.16-09.51.56:206][738]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.56:948][827]LogTemp: Health Changed: 40.0
+[2020.10.16-09.51.56:948][827]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.57:005][834]LogTemp: Health Changed: 20.0
+[2020.10.16-09.51.57:005][834]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.57:106][846]LogTemp: Health Changed: 0.0
+[2020.10.16-09.51.57:106][846]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.51.57:106][846]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.57:106][846]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.51.57:106][846]LogTemp: Health Changed: 60.0
+[2020.10.16-09.51.57:764][925]LogBlueprintUserMessages: [BP_GameState_C_0] Wave Complete
+[2020.10.16-09.51.57:764][925]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.51.58:198][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.58:198][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.51.58:230][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.51.58:230][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.51.58:258][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.51.58:262][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.16-09.51.58:268][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.51.58:301][979]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.16-09.51.59:507][120]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.51.59:513][120]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.52.13:883][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.52.13:913][842]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode8E0D113B46C304B9771BB3A02A33C4C6.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.52.15:475][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.52.15:490][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.15:490][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.52.15:490][ 27]PIE: New page: PIE session: P_TestMap (16/10/2020 13:52:15)
+[2020.10.16-09.52.15:490][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.52.15:494][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2020.10.16-09.52.15:494][ 27]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.52.15:494][ 27]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2020.10.16-09.52.15:494][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.004036s)
+[2020.10.16-09.52.15:520][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.10.16-09.52.15:533][ 27]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.52.15:542][ 27]LogInit: FAudioDevice initialized.
+[2020.10.16-09.52.15:566][ 27]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.52.15:568][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.52.15
+[2020.10.16-09.52.15:568][ 27]LogWorld: Bringing up level for play took: 0.000966
+[2020.10.16-09.52.15:582][ 27]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.52.15:582][ 27]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0,631
+[2020.10.16-09.52.15:582][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.16:476][132]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.52.17:477][252]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.52.19:534][496]LogTemp: Health Changed: 80.0
+[2020.10.16-09.52.19:534][496]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.19:826][531]LogTemp: Health Changed: 60.0
+[2020.10.16-09.52.19:827][531]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.19:926][543]LogTemp: Health Changed: 40.0
+[2020.10.16-09.52.19:926][543]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.20:026][555]LogTemp: Health Changed: 20.0
+[2020.10.16-09.52.20:026][555]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.20:126][567]LogTemp: Health Changed: 0.0
+[2020.10.16-09.52.20:126][567]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.20:126][567]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.52.20:126][567]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.52.20:126][567]LogTemp: Health Changed: 60.0
+[2020.10.16-09.52.20:126][567]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.52.20:226][579]LogTemp: Health Changed: 40.0
+[2020.10.16-09.52.20:226][579]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.52.21:744][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.21:744][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.52.21:769][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.52.21:769][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.21:800][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.52.21:803][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.16-09.52.21:810][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.52.21:846][763]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.16-09.52.23:114][910]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.52.23:119][910]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.52.51:542][186]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.52.51:557][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.51:557][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.52.51:557][186]PIE: New page: PIE session: P_TestMap (16/10/2020 13:52:51)
+[2020.10.16-09.52.51:557][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.52.51:561][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2020.10.16-09.52.51:561][186]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.52.51:561][186]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.10.16-09.52.51:561][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003898s)
+[2020.10.16-09.52.51:590][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.10.16-09.52.51:604][186]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.52.51:613][186]LogInit: FAudioDevice initialized.
+[2020.10.16-09.52.51:640][186]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.52.51:641][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.52.51
+[2020.10.16-09.52.51:642][186]LogWorld: Bringing up level for play took: 0.001466
+[2020.10.16-09.52.51:656][186]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.52.51:656][186]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0,557
+[2020.10.16-09.52.51:656][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.52.52:550][291]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.52.53:550][411]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.52.55:126][600]LogTemp: Health Changed: 80.0
+[2020.10.16-09.52.55:126][600]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.55:226][612]LogTemp: Health Changed: 60.0
+[2020.10.16-09.52.55:226][612]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.55:325][624]LogTemp: Health Changed: 40.0
+[2020.10.16-09.52.55:325][624]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.55:426][636]LogTemp: Health Changed: 20.0
+[2020.10.16-09.52.55:426][636]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.55:526][648]LogTemp: Health Changed: 0.0
+[2020.10.16-09.52.55:526][648]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.52.55:526][648]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.52.55:526][648]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.52.55:526][648]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1262
+[2020.10.16-09.52.55:526][648]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:OnActorKilled_Event_0
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:ExecuteUbergraph_BP_TestGameMode
+
+[2020.10.16-09.52.55:528][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.53.00:054][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.00:054][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.53.00:081][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.53.00:081][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.00:112][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.53.00:115][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.10.16-09.53.00:136][649]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.16-09.53.01:269][785]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.53.01:272][785]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.53.10:285][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.53.10:318][865]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameModeDDDB190B41EED93805BD0E8D5F333F10.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.53.12:039][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.53.12:053][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.12:054][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.53.12:054][ 69]PIE: New page: PIE session: P_TestMap (16/10/2020 13:53:12)
+[2020.10.16-09.53.12:054][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.53.12:057][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002964s)
+[2020.10.16-09.53.12:057][ 69]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.53.12:057][ 69]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2020.10.16-09.53.12:057][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003630s)
+[2020.10.16-09.53.12:084][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.10.16-09.53.12:097][ 69]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.53.12:105][ 69]LogInit: FAudioDevice initialized.
+[2020.10.16-09.53.12:130][ 69]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.53.12:132][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.53.12
+[2020.10.16-09.53.12:132][ 69]LogWorld: Bringing up level for play took: 0.000970
+[2020.10.16-09.53.12:146][ 69]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.53.12:146][ 69]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0,067
+[2020.10.16-09.53.12:146][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.13:047][175]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.53.14:048][295]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.53.14:682][371]LogTemp: Health Changed: 80.0
+[2020.10.16-09.53.14:682][371]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.53.14:773][382]LogTemp: Health Changed: 60.0
+[2020.10.16-09.53.14:774][382]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.53.14:874][394]LogTemp: Health Changed: 40.0
+[2020.10.16-09.53.14:874][394]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.53.14:973][406]LogTemp: Health Changed: 20.0
+[2020.10.16-09.53.14:973][406]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.53.15:073][418]LogTemp: Health Changed: 0.0
+[2020.10.16-09.53.15:073][418]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.53.15:073][418]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.53.15:074][418]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.53.15:074][418]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 1322
+[2020.10.16-09.53.15:074][418]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:OnActorKilled_Event_0
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:ExecuteUbergraph_BP_TestGameMode
+
+[2020.10.16-09.53.15:076][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.53.34:124][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.34:124][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.53.34:156][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.53.34:156][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.53.34:182][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.53.34:185][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.10.16-09.53.34:206][419]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.16-09.53.36:877][739]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.53.36:880][739]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.54.18:398][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.54.18:427][112]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode4D16257C4535379B5594669E917E2B38.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.54.19:278][213]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.54.19:426][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.10.16-09.54.20:957][393]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.54.20:972][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.54.20:972][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.54.20:972][393]PIE: New page: PIE session: P_TestMap (16/10/2020 13:54:20)
+[2020.10.16-09.54.20:972][393]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.54.20:975][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002935s)
+[2020.10.16-09.54.20:976][393]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.54.20:976][393]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.10.16-09.54.20:976][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003664s)
+[2020.10.16-09.54.21:005][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.16-09.54.21:019][393]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.54.21:027][393]LogInit: FAudioDevice initialized.
+[2020.10.16-09.54.21:057][393]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.54.21:058][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.54.21
+[2020.10.16-09.54.21:058][393]LogWorld: Bringing up level for play took: 0.001019
+[2020.10.16-09.54.21:072][393]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.54.21:072][393]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0,859
+[2020.10.16-09.54.21:072][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.54.21:898][490]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.692 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.10.16-09.54.21:965][498]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.54.22:965][618]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.54.23:231][650]LogTemp: Health Changed: 80.0
+[2020.10.16-09.54.23:231][650]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.54.23:324][661]LogTemp: Health Changed: 60.0
+[2020.10.16-09.54.23:324][661]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.54.23:423][673]LogTemp: Health Changed: 40.0
+[2020.10.16-09.54.23:423][673]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.54.23:523][685]LogTemp: Health Changed: 20.0
+[2020.10.16-09.54.23:523][685]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.54.23:624][697]LogTemp: Health Changed: 0.0
+[2020.10.16-09.54.23:624][697]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.54.23:624][697]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.54.23:624][697]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.54.23:624][697]LogBlueprintUserMessages: [BP_TestGameMode_C_0] Hello
+[2020.10.16-09.54.24:491][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.54.24:491][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.54.24:520][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.54.24:520][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.54.24:551][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.54.24:555][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.10.16-09.54.24:562][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.54.24:595][803]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.10.16-09.54.25:922][959]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.54.25:927][959]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.56.42:039][ 18]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.10.16-09.56.43:221][ 18]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.10.16-09.57.51:527][ 38]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.16-09.57.51:529][ 38]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.16-09.57.52:939][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.16-09.57.53:005][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.16-09.57.53:195][204]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMapD23ECF9B427B53227F12FE8C03C87407.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap.umap'
+[2020.10.16-09.57.53:220][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap_BuiltData" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset" SILENT=true
+[2020.10.16-09.57.53:244][204]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/P_TestMap_BuiltData5DF314E44CD0824AAD743AB54A70CF99.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2020.10.16-09.57.54:328][332]BlueprintLog: New page: Compile BP_TestGameMode
+[2020.10.16-09.57.54:506][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.10.16-09.57.54:520][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.57.54:547][332]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode16470B98451B1E43674C6EB2CA6A81FD.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.57.56:449][556]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.57.56:466][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.57.56:466][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.16-09.57.56:466][556]PIE: New page: PIE session: P_TestMap (16/10/2020 13:57:56)
+[2020.10.16-09.57.56:466][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.57.56:469][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002962s)
+[2020.10.16-09.57.56:470][556]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.57.56:470][556]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2020.10.16-09.57.56:470][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003755s)
+[2020.10.16-09.57.56:497][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.16-09.57.56:510][556]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.57.56:519][556]LogInit: FAudioDevice initialized.
+[2020.10.16-09.57.56:545][556]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.57.56:546][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.57.56
+[2020.10.16-09.57.56:546][556]LogWorld: Bringing up level for play took: 0.001069
+[2020.10.16-09.57.56:560][556]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2020.10.16-09.57.56:560][556]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 0,348
+[2020.10.16-09.57.56:560][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.57.57:457][661]LogBlueprintUserMessages: [BP_GameState_C_0] Wave in Progress
+[2020.10.16-09.57.58:458][781]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Complete
+[2020.10.16-09.57.59:874][951]LogTemp: Health Changed: 80.0
+[2020.10.16-09.57.59:875][951]LogTemp: Health 80.0 of BP_TrakerBot_C_0
+[2020.10.16-09.57.59:974][963]LogTemp: Health Changed: 60.0
+[2020.10.16-09.57.59:974][963]LogTemp: Health 60.0 of BP_TrakerBot_C_0
+[2020.10.16-09.58.00:074][975]LogTemp: Health Changed: 40.0
+[2020.10.16-09.58.00:074][975]LogTemp: Health 40.0 of BP_TrakerBot_C_0
+[2020.10.16-09.58.00:374][ 11]LogTemp: Health Changed: 20.0
+[2020.10.16-09.58.00:374][ 11]LogTemp: Health 20.0 of BP_TrakerBot_C_0
+[2020.10.16-09.58.00:474][ 23]LogTemp: Health Changed: 0.0
+[2020.10.16-09.58.00:475][ 23]LogTemp: Health 0.0 of BP_TrakerBot_C_0
+[2020.10.16-09.58.00:475][ 23]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.58.00:475][ 23]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_0.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.58.00:475][ 23]LogTemp: Health Changed: 60.0
+[2020.10.16-09.58.00:475][ 23]LogTemp: Health 60.0 of BP_TrakerBot_C_1
+[2020.10.16-09.58.00:475][ 23]LogBlueprintUserMessages: [BP_TestGameMode_C_0] Hello
+[2020.10.16-09.58.00:574][ 35]LogTemp: Health Changed: 40.0
+[2020.10.16-09.58.00:574][ 35]LogTemp: Health 40.0 of BP_TrakerBot_C_1
+[2020.10.16-09.58.00:674][ 47]LogTemp: Health Changed: 20.0
+[2020.10.16-09.58.00:674][ 47]LogTemp: Health 20.0 of BP_TrakerBot_C_1
+[2020.10.16-09.58.01:507][147]LogTemp: Health Changed: 0.0
+[2020.10.16-09.58.01:507][147]LogTemp: Health 0.0 of BP_TrakerBot_C_1
+[2020.10.16-09.58.01:508][147]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.58.01:508][147]PIE: Warning: Invalid Simulate Options: Body (BP_TrakerBot_C_1.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2020.10.16-09.58.01:508][147]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_KillerController
+	BP_TestGameMode_C /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap:PersistentLevel.BP_TestGameMode_C_0
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:ExecuteUbergraph_BP_TestGameMode:0566
+[2020.10.16-09.58.01:508][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_KillerController". Blueprint:  BP_TestGameMode Function:  Execute Ubergraph BP Test Game Mode Graph:  EventGraph Node:  Cast To SPlayerState
+[2020.10.16-09.58.01:508][147]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	BP_TestGameMode_C /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap:PersistentLevel.BP_TestGameMode_C_0
+	Function /Game/Blueprints/BP_TestGameMode.BP_TestGameMode_C:ExecuteUbergraph_BP_TestGameMode:05A2
+[2020.10.16-09.58.01:508][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  BP_TestGameMode Function:  Execute Ubergraph BP Test Game Mode Graph:  EventGraph Node:  Cast To SPlayerState
+[2020.10.16-09.58.01:508][147]LogBlueprintUserMessages: [BP_TestGameMode_C_0] Hello
+[2020.10.16-09.58.02:375][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.58.02:376][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.58.02:404][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.16-09.58.02:404][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.58.02:434][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.16-09.58.02:437][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.16-09.58.02:443][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.16-09.58.02:491][253]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.10.16-09.58.09:384][ 73]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.58.09:386][ 73]LogSlate: Window 'Message Log' being destroyed
+[2020.10.16-09.58.12:981][420]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.10.16-09.58.19:632][203]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.16-09.58.25:653][921]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.16-09.58.25:655][921]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.16-09.58.26:201][985]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.16-09.58.26:217][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.58.26:217][985]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.16-09.58.26:217][985]LogPlayLevel: [PlayLevel] Compiling BP_TestGameMode before play...
+[2020.10.16-09.58.26:348][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2020.10.16-09.58.26:379][985]LogSavePackage: Moving 'D:/GitHub/UnrealEngine/CoopGame/Saved/BP_TestGameMode258619444396A76ACE2E0AAA6D06CD56.tmp' to 'D:/GitHub/UnrealEngine/CoopGame/Content/Blueprints/BP_TestGameMode.uasset'
+[2020.10.16-09.58.26:410][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.16-09.58.26:410][985]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2020.10.16-09.58.26:410][985]PIE: New page: PIE session: P_TestMap (16/10/2020 13:58:26)
+[2020.10.16-09.58.26:410][985]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2020.10.16-09.58.26:413][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002950s)
+[2020.10.16-09.58.26:413][985]LogAIModule: Creating AISystem for world P_TestMap
+[2020.10.16-09.58.26:413][985]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2020.10.16-09.58.26:414][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.003545s)
+[2020.10.16-09.58.26:439][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.10.16-09.58.26:452][985]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.16-09.58.26:461][985]LogInit: FAudioDevice initialized.
+[2020.10.16-09.58.26:485][985]LogLoad: Game class is 'BP_TestGameMode_C'
+[2020.10.16-09.58.26:487][985]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2020.10.16-11.58.26
+[2020.10.16-09.58.26:487][985]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2020.10.16-09.58.26:487][985]LogWorld: Bringing up level for play took: 0.001000
+[2020.10.16-09.58.26:500][985]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.16-09.58.27:246][985]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.745 s
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: Ensure condition failed: GS [File:D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Private\SGameMode.cpp] [Line: 114]
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: Stack: 
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff8beabc2f UE4Editor-CoopGame-6060.dll!DispatchCheckVerify<bool,<lambda_ea2e1db9d604f2839347726f9efc81ab> >() [c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff8be9bb5c UE4Editor-CoopGame-6060.dll!ASGameMode::PrepareForNextWave() [d:\github\unrealengine\coopgame\source\coopgame\private\sgamemode.cpp:47]
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fffa021754e UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9f7899af UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9d30be44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9d32b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9d34319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9ce1fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007fff9d63d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec356bb1 UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec36554c UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec3655ca UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec37316c UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec375b8e UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff8036f7034 KERNEL32.DLL!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: [Callstack] 0x00007ff803fbcec1 ntdll.dll!UnknownFunction []
+[2020.10.16-09.58.27:246][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:289][985]LogStats:                SubmitErrorReport -  0.000 s
+[2020.10.16-09.58.27:939][985]LogStats:                    SendNewReport -  0.651 s
+[2020.10.16-09.58.27:940][985]LogStats:             FDebug::EnsureFailed -  1.440 s
+[2020.10.16-09.58.27:940][985]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap 1,728
+[2020.10.16-09.58.27:940][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2020.10.16-09.58.27:940][985]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.16-09.58.27:943][985]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: Ensure condition failed: GS [File:D:\GitHub\UnrealEngine\CoopGame\Source\CoopGame\Private\SGameMode.cpp] [Line: 114]
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: Stack: 
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff8beabc2f UE4Editor-CoopGame-6060.dll!DispatchCheckVerify<bool,<lambda_ea2e1db9d604f2839347726f9efc81ab> >() [c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff8be9b615 UE4Editor-CoopGame-6060.dll!ASGameMode::EndWave() [d:\github\unrealengine\coopgame\source\coopgame\private\sgamemode.cpp:40]
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff8be9b70e UE4Editor-CoopGame-6060.dll!ASGameMode::GameOver() [d:\github\unrealengine\coopgame\source\coopgame\private\sgamemode.cpp:106]
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff8be9b126 UE4Editor-CoopGame-6060.dll!ASGameMode::CheckAnyPlayerAlive() [d:\github\unrealengine\coopgame\source\coopgame\private\sgamemode.cpp:99]
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff9f17fea2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fff9f14aeed UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:943][985]LogOutputDevice: Error: [Callstack] 0x00007fffa01072bc UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9e6622d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9e662563 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9e672309 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fffa014f9e3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fffa015bd12 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9f97dc4f UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9f987e28 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9ce202f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007fff9d63d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec356bb1 UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec36554c UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec3655ca UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec37316c UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff6ec375b8e UE4Editor.exe!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff8036f7034 KERNEL32.DLL!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: [Callstack] 0x00007ff803fbcec1 ntdll.dll!UnknownFunction []
+[2020.10.16-09.58.27:944][985]LogOutputDevice: Error: 
+[2020.10.16-09.58.27:949][985]LogStats:                SubmitErrorReport -  0.000 s
