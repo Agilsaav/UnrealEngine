@@ -9,7 +9,7 @@
 #include "CoopGame.h"
 #include "Net/UnrealNetwork.h"
 
-//Debyg Console Var:
+//Debug Console Var:
 static int32 DebugWeaponDrawing = 0;
 FAutoConsoleVariableRef CVARDebugWeaponDrawing(TEXT("COOP_DebugWeapons"), DebugWeaponDrawing, TEXT("Draw Debug Lines for Weapons"), ECVF_Cheat);
 
@@ -23,6 +23,7 @@ ASWeapon::ASWeapon()
 	TracerTargetName = "BeamEnd";
 
 	BaseDamage = 20.0f;
+	BulletSpread = 2.0f;
 	RateOfFire = 600; //Bullets per minute
 
 	SetReplicates(true);
@@ -50,7 +51,12 @@ void ASWeapon::Fire()
 	FVector EyeLocation;
 	FRotator EyeRotation;
 	MyOwner->GetActorEyesViewPoint(EyeLocation, EyeRotation);
+
 	FVector ShotDirection = EyeRotation.Vector();
+
+	//Add randomization to the shot:
+	float HalfRad = FMath::DegreesToRadians(BulletSpread);
+	ShotDirection = FMath::VRandCone(ShotDirection, HalfRad, HalfRad);
 
 	FVector TraceEnd = EyeLocation + (ShotDirection * 10000);
 
@@ -77,7 +83,7 @@ void ASWeapon::Fire()
 		float ActualDamage = BaseDamage;
 		if (SurfaceType == SURFACE_FLESHVULNERABLE) ActualDamage *= 4.0f; //Headshot
 
-		UGameplayStatics::ApplyPointDamage(HitActor, ActualDamage, ShotDirection, Hit, MyOwner->GetInstigatorController(), this, DamageType);
+		UGameplayStatics::ApplyPointDamage(HitActor, ActualDamage, ShotDirection, Hit, MyOwner->GetInstigatorController(), MyOwner, DamageType);
 
 		PlayImpactEffects(SurfaceType, Hit.ImpactPoint);
 

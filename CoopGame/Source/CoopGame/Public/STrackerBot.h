@@ -87,6 +87,11 @@ protected:
 
 	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
 	USoundCue* ExplodeSound;
+	
+	//Timer Handler to refresh path:
+	FTimerHandle TimerHandle_RefreshPath;
+
+	void RefreshPath();
 
 public:	
 	// Called every frame

@@ -80,7 +80,6 @@ void ASGameMode::CheckWaveState()
 
 void ASGameMode::CheckAnyPlayerAlive()
 {
-
 	for (TActorIterator<APlayerController> CharacterItr(GetWorld()); CharacterItr; ++CharacterItr)
 	{
 		APlayerController* PC = *CharacterItr;

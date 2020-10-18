@@ -65,10 +65,6 @@ protected:
 	void BeginZoom();
 	void EndZoom();
 
-	//Weapon:
-	void StartFire();
-	void StopFire();
-
 	//Health:
 	UFUNCTION()
 	void OnHealthChanged(USHealthComponent* OwningHealthComp, float Health, float HealthDelta, const class UDamageType* DamageType, class AController* InstigatedBy, AActor* DamageCauser);
@@ -83,7 +79,12 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-
 	virtual FVector GetPawnViewLocation() const override;
 
+	//Weapon:
+	UFUNCTION(BlueprintCallable, Category = "Player")
+		void StartFire();
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+		void StopFire();
 };

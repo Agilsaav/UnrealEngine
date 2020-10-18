@@ -88,7 +88,7 @@ void EmptyLinkFunctionForGeneratedCodeSProjectileWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASProjectileWeapon, 1520143083);
+	IMPLEMENT_CLASS(ASProjectileWeapon, 438435900);
 	template<> COOPGAME_API UClass* StaticClass<ASProjectileWeapon>()
 	{
 		return ASProjectileWeapon::StaticClass();
